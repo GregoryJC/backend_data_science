@@ -1,19 +1,14 @@
+# %%
 import pandas as pd
 import numpy as np
 import os
-import sys
 
 import plotly.graph_objects as go
 
-# %%
-y =  pd.read_parquet("../data/y_example.parquet")
-
 # %% Get geoplot
-def get_geoplot(y):
+def get_geoplot(y, title_string):
 
     if "lat" in y and "lon" in y:
-
-        title_string = f"Geoplot"
 
         fig = go.Figure(
             go.Scattermapbox(
