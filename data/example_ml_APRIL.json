@@ -1,0 +1,4530 @@
+[
+    {
+        "lat": "50.328093",
+        "lon": "11.80973",
+        "date": "APR-I",
+        "sum_raw_reads": 15752,
+        "dataset": "Example",
+        "extra_target": "5636_4_G_gro\u00df_V3"
+    },
+    {
+        "lat": "50.324574",
+        "lon": "11.85608",
+        "date": "APR-I",
+        "sum_raw_reads": 14394,
+        "dataset": "Example",
+        "extra_target": "5637_3_G_gro\u00df_V3"
+    },
+    {
+        "lat": "50.314272",
+        "lon": "11.89719",
+        "date": "APR-I",
+        "sum_raw_reads": 17791,
+        "dataset": "Example",
+        "extra_target": "5637_3_U_gro\u00df_V3"
+    },
+    {
+        "lat": "50.287344",
+        "lon": "10.456818",
+        "date": "APR-I",
+        "sum_raw_reads": 10206,
+        "dataset": "Example",
+        "extra_target": "5728_2_A_gro\u00df_V3"
+    },
+    {
+        "lat": "50.259487",
+        "lon": "10.446889",
+        "date": "APR-I",
+        "sum_raw_reads": 17896,
+        "dataset": "Example",
+        "extra_target": "5728_2_F_gro\u00df_V3"
+    },
+    {
+        "lat": "50.291598",
+        "lon": "10.483936",
+        "date": "APR-I",
+        "sum_raw_reads": 18823,
+        "dataset": "Example",
+        "extra_target": "5728_2_G_gro\u00df_V3"
+    },
+    {
+        "lat": "50.230841",
+        "lon": "11.891826",
+        "date": "APR-I",
+        "sum_raw_reads": 19239,
+        "dataset": "Example",
+        "extra_target": "5737_3_F_gro\u00df_V3"
+    },
+    {
+        "lat": "50.213975",
+        "lon": "11.896473",
+        "date": "APR-I",
+        "sum_raw_reads": 39058,
+        "dataset": "Example",
+        "extra_target": "5737_3_G_gro\u00df_V3"
+    },
+    {
+        "lat": "50.115219",
+        "lon": "11.934746",
+        "date": "APR-I",
+        "sum_raw_reads": 41077,
+        "dataset": "Example",
+        "extra_target": "5837_4_F_gro\u00df_V3"
+    },
+    {
+        "lat": "50.111228",
+        "lon": "11.97416",
+        "date": "APR-I",
+        "sum_raw_reads": 16932,
+        "dataset": "Example",
+        "extra_target": "5837_4_G_gro\u00df_V3"
+    },
+    {
+        "lat": "50.17087",
+        "lon": "12.140457",
+        "date": "APR-I",
+        "sum_raw_reads": 20510,
+        "dataset": "Example",
+        "extra_target": "5838_2_U_gro\u00df_V3"
+    },
+    {
+        "lat": "50.032296",
+        "lon": "9.565229",
+        "date": "APR-I",
+        "sum_raw_reads": 16616,
+        "dataset": "Example",
+        "extra_target": "5923_3_F_gro\u00df_V3"
+    },
+    {
+        "lat": "50.009466",
+        "lon": "9.557592",
+        "date": "APR-I",
+        "sum_raw_reads": 46810,
+        "dataset": "Example",
+        "extra_target": "5923_3_G_gro\u00df_V3"
+    },
+    {
+        "lat": "50.033508",
+        "lon": "9.520374",
+        "date": "APR-I",
+        "sum_raw_reads": 65130,
+        "dataset": "Example",
+        "extra_target": "5923_3_U_gro\u00df_V3"
+    },
+    {
+        "lat": "50.034594",
+        "lon": "9.697595",
+        "date": "APR-I",
+        "sum_raw_reads": 63292,
+        "dataset": "Example",
+        "extra_target": "5924_3_A_gro\u00df_V3"
+    },
+    {
+        "lat": "50.012088",
+        "lon": "9.68706",
+        "date": "APR-I",
+        "sum_raw_reads": 30237,
+        "dataset": "Example",
+        "extra_target": "5924_3_F_gro\u00df_V3"
+    },
+    {
+        "lat": "50.029663",
+        "lon": "9.734729",
+        "date": "APR-I",
+        "sum_raw_reads": 65966,
+        "dataset": "Example",
+        "extra_target": "5924_3_U_gro\u00df_V3"
+    },
+    {
+        "lat": "50.096472",
+        "lon": "10.48299",
+        "date": "APR-I",
+        "sum_raw_reads": 56952,
+        "dataset": "Example",
+        "extra_target": "5928_2_A_gro\u00df_V3"
+    },
+    {
+        "lat": "50.071501",
+        "lon": "10.437306",
+        "date": "APR-I",
+        "sum_raw_reads": 59913,
+        "dataset": "Example",
+        "extra_target": "5928_2_F_gro\u00df_V3"
+    },
+    {
+        "lat": "50.072004",
+        "lon": "10.481275",
+        "date": "APR-I",
+        "sum_raw_reads": 56681,
+        "dataset": "Example",
+        "extra_target": "5928_2_U_gro\u00df_V3"
+    },
+    {
+        "lat": "50.010602",
+        "lon": "11.29315",
+        "date": "APR-I",
+        "sum_raw_reads": 74622,
+        "dataset": "Example",
+        "extra_target": "5933_4_A_gro\u00df_V3"
+    },
+    {
+        "lat": "50.027559",
+        "lon": "11.312035",
+        "date": "APR-I",
+        "sum_raw_reads": 52130,
+        "dataset": "Example",
+        "extra_target": "5933_4_U_gro\u00df_V3"
+    },
+    {
+        "lat": "50.03465",
+        "lon": "12.03883",
+        "date": "APR-I",
+        "sum_raw_reads": 69343,
+        "dataset": "Example",
+        "extra_target": "5938_3_A_gro\u00df_V3"
+    },
+    {
+        "lat": "50.01098",
+        "lon": "12.043509",
+        "date": "APR-I",
+        "sum_raw_reads": 55846,
+        "dataset": "Example",
+        "extra_target": "5938_3_F_gro\u00df_V3"
+    },
+    {
+        "lat": "50.015394",
+        "lon": "12.017609",
+        "date": "APR-I",
+        "sum_raw_reads": 54176,
+        "dataset": "Example",
+        "extra_target": "5938_3_U_gro\u00df_V3"
+    },
+    {
+        "lat": "49.969202",
+        "lon": "9.356396",
+        "date": "APR-I",
+        "sum_raw_reads": 58898,
+        "dataset": "Example",
+        "extra_target": "6022_1_F_gro\u00df_V3"
+    },
+    {
+        "lat": "49.976701",
+        "lon": "9.387982",
+        "date": "APR-I",
+        "sum_raw_reads": 34467,
+        "dataset": "Example",
+        "extra_target": "6022_1_G_gro\u00df_V3"
+    },
+    {
+        "lat": "49.963367",
+        "lon": "9.389076",
+        "date": "APR-I",
+        "sum_raw_reads": 60310,
+        "dataset": "Example",
+        "extra_target": "6022_1_U_gro\u00df_V3"
+    },
+    {
+        "lat": "49.918494",
+        "lon": "10.055316",
+        "date": "APR-I",
+        "sum_raw_reads": 51254,
+        "dataset": "Example",
+        "extra_target": "6026_3_A_gro\u00df_V3"
+    },
+    {
+        "lat": "49.929265",
+        "lon": "10.021698",
+        "date": "APR-I",
+        "sum_raw_reads": 63544,
+        "dataset": "Example",
+        "extra_target": "6026_3_G_gro\u00df_V3"
+    },
+    {
+        "lat": "49.937976",
+        "lon": "10.0513",
+        "date": "APR-I",
+        "sum_raw_reads": 85068,
+        "dataset": "Example",
+        "extra_target": "6026_3_U_gro\u00df_V3"
+    },
+    {
+        "lat": "49.920055",
+        "lon": "10.191534",
+        "date": "APR-I",
+        "sum_raw_reads": 62095,
+        "dataset": "Example",
+        "extra_target": "6027_3_A_gro\u00df_V3"
+    },
+    {
+        "lat": "49.93725",
+        "lon": "10.197381",
+        "date": "APR-I",
+        "sum_raw_reads": 46740,
+        "dataset": "Example",
+        "extra_target": "6027_3_F_gro\u00df_V3"
+    },
+    {
+        "lat": "49.921712",
+        "lon": "10.234173",
+        "date": "APR-I",
+        "sum_raw_reads": 49973,
+        "dataset": "Example",
+        "extra_target": "6027_3_U_gro\u00df_V3"
+    },
+    {
+        "lat": "49.917655",
+        "lon": "10.555232",
+        "date": "APR-I",
+        "sum_raw_reads": 40869,
+        "dataset": "Example",
+        "extra_target": "6029_3_A_gro\u00df_V3"
+    },
+    {
+        "lat": "49.91667",
+        "lon": "10.52549",
+        "date": "APR-I",
+        "sum_raw_reads": 48361,
+        "dataset": "Example",
+        "extra_target": "6029_3_F_gro\u00df_V3"
+    },
+    {
+        "lat": "49.91816",
+        "lon": "10.56034",
+        "date": "APR-I",
+        "sum_raw_reads": 47967,
+        "dataset": "Example",
+        "extra_target": "6029_3_G_gro\u00df_V3"
+    },
+    {
+        "lat": "49.916388",
+        "lon": "10.937508",
+        "date": "APR-I",
+        "sum_raw_reads": 12513,
+        "dataset": "Example",
+        "extra_target": "6031_4_F_gro\u00df_V3"
+    },
+    {
+        "lat": "49.936333",
+        "lon": "10.95863",
+        "date": "APR-I",
+        "sum_raw_reads": 40840,
+        "dataset": "Example",
+        "extra_target": "6031_4_G_gro\u00df_V3"
+    },
+    {
+        "lat": "49.933887",
+        "lon": "10.9604",
+        "date": "APR-I",
+        "sum_raw_reads": 34645,
+        "dataset": "Example",
+        "extra_target": "6031_4_U_gro\u00df_V3"
+    },
+    {
+        "lat": "49.928374",
+        "lon": "11.087313",
+        "date": "APR-I",
+        "sum_raw_reads": 43096,
+        "dataset": "Example",
+        "extra_target": "6032_4_A_gro\u00df_V3"
+    },
+    {
+        "lat": "49.911649",
+        "lon": "11.128695",
+        "date": "APR-I",
+        "sum_raw_reads": 40721,
+        "dataset": "Example",
+        "extra_target": "6032_4_F_gro\u00df_V3"
+    },
+    {
+        "lat": "49.910098",
+        "lon": "11.107651",
+        "date": "APR-I",
+        "sum_raw_reads": 51896,
+        "dataset": "Example",
+        "extra_target": "6032_4_G_gro\u00df_V3"
+    },
+    {
+        "lat": "49.992107",
+        "lon": "11.482472",
+        "date": "APR-I",
+        "sum_raw_reads": 50294,
+        "dataset": "Example",
+        "extra_target": "6034_2_F_gro\u00df_V3"
+    },
+    {
+        "lat": "49.967354",
+        "lon": "11.437162",
+        "date": "APR-I",
+        "sum_raw_reads": 33530,
+        "dataset": "Example",
+        "extra_target": "6034_2_G_gro\u00df_V3"
+    },
+    {
+        "lat": "49.988815",
+        "lon": "11.602884",
+        "date": "APR-I",
+        "sum_raw_reads": 56656,
+        "dataset": "Example",
+        "extra_target": "6035_2_A_gro\u00df_V3"
+    },
+    {
+        "lat": "49.977251",
+        "lon": "11.642095",
+        "date": "APR-I",
+        "sum_raw_reads": 66764,
+        "dataset": "Example",
+        "extra_target": "6035_2_G_gro\u00df_V3"
+    },
+    {
+        "lat": "49.902546",
+        "lon": "11.554866",
+        "date": "APR-I",
+        "sum_raw_reads": 67106,
+        "dataset": "Example",
+        "extra_target": "6035_3_A_gro\u00df_V3"
+    },
+    {
+        "lat": "49.935527",
+        "lon": "11.573567",
+        "date": "APR-I",
+        "sum_raw_reads": 41319,
+        "dataset": "Example",
+        "extra_target": "6035_3_U_gro\u00df_V3"
+    },
+    {
+        "lat": "49.827042",
+        "lon": "9.472531",
+        "date": "APR-I",
+        "sum_raw_reads": 56003,
+        "dataset": "Example",
+        "extra_target": "6122_4_A_gro\u00df_V3"
+    },
+    {
+        "lat": "49.818649",
+        "lon": "9.445657",
+        "date": "APR-I",
+        "sum_raw_reads": 54858,
+        "dataset": "Example",
+        "extra_target": "6122_4_F_gro\u00df_V3"
+    },
+    {
+        "lat": "49.839661",
+        "lon": "9.452028",
+        "date": "APR-I",
+        "sum_raw_reads": 54681,
+        "dataset": "Example",
+        "extra_target": "6122_4_G_gro\u00df_V3"
+    },
+    {
+        "lat": "49.867367",
+        "lon": "9.538102",
+        "date": "APR-I",
+        "sum_raw_reads": 35361,
+        "dataset": "Example",
+        "extra_target": "6123_1_A_gro\u00df_V3"
+    },
+    {
+        "lat": "49.873636",
+        "lon": "9.536612",
+        "date": "APR-I",
+        "sum_raw_reads": 65176,
+        "dataset": "Example",
+        "extra_target": "6123_1_F_gro\u00df_V3"
+    },
+    {
+        "lat": "49.86794",
+        "lon": "9.51605",
+        "date": "APR-I",
+        "sum_raw_reads": 48358,
+        "dataset": "Example",
+        "extra_target": "6123_1_G_gro\u00df_V3"
+    },
+    {
+        "lat": "49.874113",
+        "lon": "9.963159",
+        "date": "APR-I",
+        "sum_raw_reads": 58159,
+        "dataset": "Example",
+        "extra_target": "6125_2_A_gro\u00df_V3"
+    },
+    {
+        "lat": "49.873154",
+        "lon": "9.932433",
+        "date": "APR-I",
+        "sum_raw_reads": 47284,
+        "dataset": "Example",
+        "extra_target": "6125_2_F_gro\u00df_V3"
+    },
+    {
+        "lat": "49.859281",
+        "lon": "9.953438",
+        "date": "APR-I",
+        "sum_raw_reads": 53563,
+        "dataset": "Example",
+        "extra_target": "6125_2_U_gro\u00df_V3"
+    },
+    {
+        "lat": "49.872797",
+        "lon": "10.869569",
+        "date": "APR-I",
+        "sum_raw_reads": 61952,
+        "dataset": "Example",
+        "extra_target": "6131_1_A_gro\u00df_V3"
+    },
+    {
+        "lat": "49.856207",
+        "lon": "10.898928",
+        "date": "APR-I",
+        "sum_raw_reads": 34862,
+        "dataset": "Example",
+        "extra_target": "6131_1_F_gro\u00df_V3"
+    },
+    {
+        "lat": "49.775526",
+        "lon": "9.774571",
+        "date": "APR-I",
+        "sum_raw_reads": 45489,
+        "dataset": "Example",
+        "extra_target": "6224_2_A_gro\u00df_V3"
+    },
+    {
+        "lat": "49.763573",
+        "lon": "9.768748",
+        "date": "APR-I",
+        "sum_raw_reads": 38617,
+        "dataset": "Example",
+        "extra_target": "6224_2_F_gro\u00df_V3"
+    },
+    {
+        "lat": "49.76218",
+        "lon": "9.803023",
+        "date": "APR-I",
+        "sum_raw_reads": 43391,
+        "dataset": "Example",
+        "extra_target": "6224_2_U_gro\u00df_V3"
+    },
+    {
+        "lat": "49.772028",
+        "lon": "9.969936",
+        "date": "APR-I",
+        "sum_raw_reads": 45351,
+        "dataset": "Example",
+        "extra_target": "6225_2_A_gro\u00df_V3"
+    },
+    {
+        "lat": "49.778386",
+        "lon": "9.960221",
+        "date": "APR-I",
+        "sum_raw_reads": 50221,
+        "dataset": "Example",
+        "extra_target": "6225_2_F_gro\u00df_V3"
+    },
+    {
+        "lat": "49.77293",
+        "lon": "9.929597",
+        "date": "APR-I",
+        "sum_raw_reads": 28772,
+        "dataset": "Example",
+        "extra_target": "6225_2_U_gro\u00df_V3"
+    },
+    {
+        "lat": "49.738806",
+        "lon": "10.968528",
+        "date": "APR-I",
+        "sum_raw_reads": 46377,
+        "dataset": "Example",
+        "extra_target": "6231_4_A_gro\u00df_V3"
+    },
+    {
+        "lat": "49.732863",
+        "lon": "10.984689",
+        "date": "APR-I",
+        "sum_raw_reads": 44085,
+        "dataset": "Example",
+        "extra_target": "6231_4_F_gro\u00df_V3"
+    },
+    {
+        "lat": "49.791936",
+        "lon": "11.427653",
+        "date": "APR-I",
+        "sum_raw_reads": 42615,
+        "dataset": "Example",
+        "extra_target": "6234_2_A_gro\u00df_V3"
+    },
+    {
+        "lat": "49.759616",
+        "lon": "11.480165",
+        "date": "APR-I",
+        "sum_raw_reads": 59833,
+        "dataset": "Example",
+        "extra_target": "6234_2_F_gro\u00df_V3"
+    },
+    {
+        "lat": "49.776672",
+        "lon": "11.443351",
+        "date": "APR-I",
+        "sum_raw_reads": 37589,
+        "dataset": "Example",
+        "extra_target": "6234_2_G_gro\u00df_V3"
+    },
+    {
+        "lat": "49.692013",
+        "lon": "10.273802",
+        "date": "APR-I",
+        "sum_raw_reads": 51381,
+        "dataset": "Example",
+        "extra_target": "6327_2_A_gro\u00df_V3"
+    },
+    {
+        "lat": "49.69029",
+        "lon": "10.316314",
+        "date": "APR-I",
+        "sum_raw_reads": 42938,
+        "dataset": "Example",
+        "extra_target": "6327_2_G_gro\u00df_V3"
+    },
+    {
+        "lat": "49.667849",
+        "lon": "10.280393",
+        "date": "APR-I",
+        "sum_raw_reads": 51463,
+        "dataset": "Example",
+        "extra_target": "6327_2_U_gro\u00df_V3"
+    },
+    {
+        "lat": "49.400068",
+        "lon": "10.999459",
+        "date": "APR-I",
+        "sum_raw_reads": 54219,
+        "dataset": "Example",
+        "extra_target": "6532_3_A_gro\u00df_V3"
+    },
+    {
+        "lat": "49.414153",
+        "lon": "11.027121",
+        "date": "APR-I",
+        "sum_raw_reads": 58021,
+        "dataset": "Example",
+        "extra_target": "6532_3_F_gro\u00df_V3"
+    },
+    {
+        "lat": "49.420593",
+        "lon": "11.050254",
+        "date": "APR-I",
+        "sum_raw_reads": 47480,
+        "dataset": "Example",
+        "extra_target": "6532_3_U_gro\u00df_V3"
+    },
+    {
+        "lat": "49.41096",
+        "lon": "11.320103",
+        "date": "APR-I",
+        "sum_raw_reads": 59792,
+        "dataset": "Example",
+        "extra_target": "6533_4_F_gro\u00df_V3"
+    },
+    {
+        "lat": "49.411576",
+        "lon": "11.298321",
+        "date": "APR-I",
+        "sum_raw_reads": 45477,
+        "dataset": "Example",
+        "extra_target": "6533_4_U_gro\u00df_V3"
+    },
+    {
+        "lat": "49.12851261",
+        "lon": "11.72029174",
+        "date": "APR-I",
+        "sum_raw_reads": 40222,
+        "dataset": "Example",
+        "extra_target": "6836_3_A_gro\u00df_V3"
+    },
+    {
+        "lat": "49.14359677",
+        "lon": "11.71467913",
+        "date": "APR-I",
+        "sum_raw_reads": 55939,
+        "dataset": "Example",
+        "extra_target": "6836_3_F_gro\u00df_V3"
+    },
+    {
+        "lat": "49.13119792",
+        "lon": "11.7025895",
+        "date": "APR-I",
+        "sum_raw_reads": 29827,
+        "dataset": "Example",
+        "extra_target": "6836_3_G_gro\u00df_V3"
+    },
+    {
+        "lat": "49.04959",
+        "lon": "11.36605",
+        "date": "APR-I",
+        "sum_raw_reads": 45052,
+        "dataset": "Example",
+        "extra_target": "6934_1_F_gro\u00df_V3"
+    },
+    {
+        "lat": "49.04469",
+        "lon": "12.11394",
+        "date": "APR-I",
+        "sum_raw_reads": 41096,
+        "dataset": "Example",
+        "extra_target": "6938_4_A_gro\u00df_V3"
+    },
+    {
+        "lat": "49.04483",
+        "lon": "12.10857",
+        "date": "APR-I",
+        "sum_raw_reads": 51535,
+        "dataset": "Example",
+        "extra_target": "6938_4_G_gro\u00df_V3"
+    },
+    {
+        "lat": "49.00426",
+        "lon": "12.09667",
+        "date": "APR-I",
+        "sum_raw_reads": 40770,
+        "dataset": "Example",
+        "extra_target": "6938_4_U_gro\u00df_V3"
+    },
+    {
+        "lat": "48.94477",
+        "lon": "11.81127",
+        "date": "APR-I",
+        "sum_raw_reads": 53838,
+        "dataset": "Example",
+        "extra_target": "7036_4_A_gro\u00df_V3"
+    },
+    {
+        "lat": "48.94322",
+        "lon": "11.78501",
+        "date": "APR-I",
+        "sum_raw_reads": 41470,
+        "dataset": "Example",
+        "extra_target": "7036_4_F_gro\u00df_V3"
+    },
+    {
+        "lat": "48.92025",
+        "lon": "11.7508",
+        "date": "APR-I",
+        "sum_raw_reads": 46679,
+        "dataset": "Example",
+        "extra_target": "7036_4_G_gro\u00df_V3"
+    },
+    {
+        "lat": "48.810718",
+        "lon": "12.961088",
+        "date": "APR-I",
+        "sum_raw_reads": 35164,
+        "dataset": "Example",
+        "extra_target": "7143_4_G_gro\u00df_V3"
+    },
+    {
+        "lat": "48.840083",
+        "lon": "12.966222",
+        "date": "APR-I",
+        "sum_raw_reads": 21936,
+        "dataset": "Example",
+        "extra_target": "7143_4_U_gro\u00df_V3"
+    },
+    {
+        "lat": "48.880303",
+        "lon": "13.549673",
+        "date": "APR-I",
+        "sum_raw_reads": 7371,
+        "dataset": "Example",
+        "extra_target": "7147_1_F_gro\u00df_V3"
+    },
+    {
+        "lat": "48.860921",
+        "lon": "13.544862",
+        "date": "APR-I",
+        "sum_raw_reads": 17301,
+        "dataset": "Example",
+        "extra_target": "7147_1_G_gro\u00df_V3"
+    },
+    {
+        "lat": "48.786236",
+        "lon": "13.387424",
+        "date": "APR-I",
+        "sum_raw_reads": 21151,
+        "dataset": "Example",
+        "extra_target": "7246_1_A_gro\u00df_V3"
+    },
+    {
+        "lat": "48.778243",
+        "lon": "13.362636",
+        "date": "APR-I",
+        "sum_raw_reads": 18441,
+        "dataset": "Example",
+        "extra_target": "7246_1_F_gro\u00df_V3"
+    },
+    {
+        "lat": "48.765422",
+        "lon": "13.391953",
+        "date": "APR-I",
+        "sum_raw_reads": 10830,
+        "dataset": "Example",
+        "extra_target": "7246_1_G_gro\u00df_V3"
+    },
+    {
+        "lat": "48.64611",
+        "lon": "11.01893",
+        "date": "APR-I",
+        "sum_raw_reads": 19443,
+        "dataset": "Example",
+        "extra_target": "7332_3_A_gro\u00df_V3"
+    },
+    {
+        "lat": "48.64169",
+        "lon": "11.01877",
+        "date": "APR-I",
+        "sum_raw_reads": 12412,
+        "dataset": "Example",
+        "extra_target": "7332_3_F_gro\u00df_V3"
+    },
+    {
+        "lat": "48.62785",
+        "lon": "11.01863",
+        "date": "APR-I",
+        "sum_raw_reads": 11711,
+        "dataset": "Example",
+        "extra_target": "7332_3_G_gro\u00df_V3"
+    },
+    {
+        "lat": "48.57379507",
+        "lon": "11.88791715",
+        "date": "APR-I",
+        "sum_raw_reads": 40405,
+        "dataset": "Example",
+        "extra_target": "7437_1_A_gro\u00df_V3"
+    },
+    {
+        "lat": "48.57946082",
+        "lon": "11.84649789",
+        "date": "APR-I",
+        "sum_raw_reads": 28539,
+        "dataset": "Example",
+        "extra_target": "7437_1_F_gro\u00df_V3"
+    },
+    {
+        "lat": "48.57835215",
+        "lon": "11.86256717",
+        "date": "APR-I",
+        "sum_raw_reads": 16415,
+        "dataset": "Example",
+        "extra_target": "7437_1_G_gro\u00df_V3"
+    },
+    {
+        "lat": "48.488097",
+        "lon": "13.124446",
+        "date": "APR-I",
+        "sum_raw_reads": 33351,
+        "dataset": "Example",
+        "extra_target": "7446_1_F_gro\u00df_V3"
+    },
+    {
+        "lat": "48.560093",
+        "lon": "13.343207",
+        "date": "APR-I",
+        "sum_raw_reads": 29329,
+        "dataset": "Example",
+        "extra_target": "7446_1_G_gro\u00df_V3"
+    },
+    {
+        "lat": "48.575962",
+        "lon": "13.359196",
+        "date": "APR-I",
+        "sum_raw_reads": 34357,
+        "dataset": "Example",
+        "extra_target": "7446_1_U_gro\u00df_V3"
+    },
+    {
+        "lat": "48.583249",
+        "lon": "13.390587",
+        "date": "APR-I",
+        "sum_raw_reads": 41161,
+        "dataset": "Example",
+        "extra_target": "7544_2_A_gro\u00df_V3"
+    },
+    {
+        "lat": "48.465597",
+        "lon": "13.146349",
+        "date": "APR-I",
+        "sum_raw_reads": 42091,
+        "dataset": "Example",
+        "extra_target": "7544_2_F_gro\u00df_V3"
+    },
+    {
+        "lat": "48.479413",
+        "lon": "13.148819",
+        "date": "APR-I",
+        "sum_raw_reads": 35584,
+        "dataset": "Example",
+        "extra_target": "7544_2_G_gro\u00df_V3"
+    },
+    {
+        "lat": "48.463439",
+        "lon": "13.305301",
+        "date": "APR-I",
+        "sum_raw_reads": 50279,
+        "dataset": "Example",
+        "extra_target": "7545_2_A_gro\u00df_V3"
+    },
+    {
+        "lat": "48.474046",
+        "lon": "13.317516",
+        "date": "APR-I",
+        "sum_raw_reads": 35558,
+        "dataset": "Example",
+        "extra_target": "7545_2_F_gro\u00df_V3"
+    },
+    {
+        "lat": "48.475985",
+        "lon": "13.298897",
+        "date": "APR-I",
+        "sum_raw_reads": 5399,
+        "dataset": "Example",
+        "extra_target": "7545_2_U_gro\u00df_V3"
+    },
+    {
+        "lat": "48.436028",
+        "lon": "13.41041",
+        "date": "APR-I",
+        "sum_raw_reads": 20077,
+        "dataset": "Example",
+        "extra_target": "7546_3_A_gro\u00df_V3"
+    },
+    {
+        "lat": "48.432799",
+        "lon": "13.346354",
+        "date": "APR-I",
+        "sum_raw_reads": 23217,
+        "dataset": "Example",
+        "extra_target": "7546_3_G_gro\u00df_V3"
+    },
+    {
+        "lat": "48.409278",
+        "lon": "13.39906",
+        "date": "APR-I",
+        "sum_raw_reads": 14936,
+        "dataset": "Example",
+        "extra_target": "7546_3_U_gro\u00df_V3"
+    },
+    {
+        "lat": "48.268454",
+        "lon": "10.7739401",
+        "date": "APR-I",
+        "sum_raw_reads": 37101,
+        "dataset": "Example",
+        "extra_target": "7730_2_A_gro\u00df_V3"
+    },
+    {
+        "lat": "48.2648567",
+        "lon": "10.7663075",
+        "date": "APR-I",
+        "sum_raw_reads": 20735,
+        "dataset": "Example",
+        "extra_target": "7730_2_F_gro\u00df_V3"
+    },
+    {
+        "lat": "48.2718015",
+        "lon": "10.8403258",
+        "date": "APR-I",
+        "sum_raw_reads": 30286,
+        "dataset": "Example",
+        "extra_target": "7730_2_U_gro\u00df_V3"
+    },
+    {
+        "lat": "48.19283",
+        "lon": "11.51718",
+        "date": "APR-I",
+        "sum_raw_reads": 22180,
+        "dataset": "Example",
+        "extra_target": "7835_1_F_gro\u00df_V3"
+    },
+    {
+        "lat": "48.10691",
+        "lon": "11.95297",
+        "date": "APR-I",
+        "sum_raw_reads": 29881,
+        "dataset": "Example",
+        "extra_target": "7837_4_A_gro\u00df_V3"
+    },
+    {
+        "lat": "48.12172",
+        "lon": "11.95793",
+        "date": "APR-I",
+        "sum_raw_reads": 17401,
+        "dataset": "Example",
+        "extra_target": "7837_4_F_gro\u00df_V3"
+    },
+    {
+        "lat": "48.09727",
+        "lon": "11.97566",
+        "date": "APR-I",
+        "sum_raw_reads": 27249,
+        "dataset": "Example",
+        "extra_target": "7837_4_U_gro\u00df_V3"
+    },
+    {
+        "lat": "48.08496",
+        "lon": "11.58851",
+        "date": "APR-I",
+        "sum_raw_reads": 22488,
+        "dataset": "Example",
+        "extra_target": "7935_2_F_gro\u00df_V3"
+    },
+    {
+        "lat": "48.06033",
+        "lon": "11.64965",
+        "date": "APR-I",
+        "sum_raw_reads": 10529,
+        "dataset": "Example",
+        "extra_target": "7935_2_U_gro\u00df_V3"
+    },
+    {
+        "lat": "47.9629913",
+        "lon": "10.6762436",
+        "date": "APR-I",
+        "sum_raw_reads": 24577,
+        "dataset": "Example",
+        "extra_target": "8030_1_F_gro\u00df_V3"
+    },
+    {
+        "lat": "47.9770054",
+        "lon": "10.6861437",
+        "date": "APR-I",
+        "sum_raw_reads": 19216,
+        "dataset": "Example",
+        "extra_target": "8030_1_G_gro\u00df_V3"
+    },
+    {
+        "lat": "47.88582",
+        "lon": "10.82678",
+        "date": "APR-I",
+        "sum_raw_reads": 13419,
+        "dataset": "Example",
+        "extra_target": "8130_2_A mit 8030_1ag beschriftet _gro\u00df_V3"
+    },
+    {
+        "lat": "47.87829",
+        "lon": "10.81209",
+        "date": "APR-I",
+        "sum_raw_reads": 22546,
+        "dataset": "Example",
+        "extra_target": "8130_2_F_gro\u00df_V3"
+    },
+    {
+        "lat": "47.8692",
+        "lon": "10.83086",
+        "date": "APR-I",
+        "sum_raw_reads": 19516,
+        "dataset": "Example",
+        "extra_target": "8130_2_G_gro\u00df_V3"
+    },
+    {
+        "lat": "47.8224184",
+        "lon": "10.9115418",
+        "date": "APR-I",
+        "sum_raw_reads": 20178,
+        "dataset": "Example",
+        "extra_target": "8131_3_F_gro\u00df_V3"
+    },
+    {
+        "lat": "47.8103357",
+        "lon": "10.8881576",
+        "date": "APR-I",
+        "sum_raw_reads": 31061,
+        "dataset": "Example",
+        "extra_target": "8131_3_U_gro\u00df_V3"
+    },
+    {
+        "lat": "47.7595995",
+        "lon": "10.6430557",
+        "date": "APR-I",
+        "sum_raw_reads": 17569,
+        "dataset": "Example",
+        "extra_target": "8229_2_G_gro\u00df_V3"
+    },
+    {
+        "lat": "47.7812563",
+        "lon": "10.6236358",
+        "date": "APR-I",
+        "sum_raw_reads": 36124,
+        "dataset": "Example",
+        "extra_target": "8229_2_U_gro\u00df_V3"
+    },
+    {
+        "lat": "47.7704",
+        "lon": "11.5466",
+        "date": "APR-I",
+        "sum_raw_reads": 26402,
+        "dataset": "Example",
+        "extra_target": "8235_1_F_gro\u00df_V3"
+    },
+    {
+        "lat": "47.7746",
+        "lon": "11.54343",
+        "date": "APR-I",
+        "sum_raw_reads": 9354,
+        "dataset": "Example",
+        "extra_target": "8235_1_G_gro\u00df_V3"
+    },
+    {
+        "lat": "47.75695",
+        "lon": "11.58147",
+        "date": "APR-I",
+        "sum_raw_reads": 15591,
+        "dataset": "Example",
+        "extra_target": "8235_1_U_gro\u00df_V3"
+    },
+    {
+        "lat": "50.328093",
+        "lon": "11.80973",
+        "date": "APR-I",
+        "sum_raw_reads": 12022,
+        "dataset": "Example",
+        "extra_target": "5636_4_G_klein_V3"
+    },
+    {
+        "lat": "50.324574",
+        "lon": "11.85608",
+        "date": "APR-I",
+        "sum_raw_reads": 35210,
+        "dataset": "Example",
+        "extra_target": "5637_3_G_klein_V3"
+    },
+    {
+        "lat": "50.314272",
+        "lon": "11.89719",
+        "date": "APR-I",
+        "sum_raw_reads": 17839,
+        "dataset": "Example",
+        "extra_target": "5637_3_U_klein_V3"
+    },
+    {
+        "lat": "50.287344",
+        "lon": "10.456818",
+        "date": "APR-I",
+        "sum_raw_reads": 11622,
+        "dataset": "Example",
+        "extra_target": "5728_2_A_klein_V3"
+    },
+    {
+        "lat": "50.259487",
+        "lon": "10.446889",
+        "date": "APR-I",
+        "sum_raw_reads": 11335,
+        "dataset": "Example",
+        "extra_target": "5728_2_F_klein_V3"
+    },
+    {
+        "lat": "50.291598",
+        "lon": "10.483936",
+        "date": "APR-I",
+        "sum_raw_reads": 17778,
+        "dataset": "Example",
+        "extra_target": "5728_2_G_klein_V3"
+    },
+    {
+        "lat": "50.230841",
+        "lon": "11.891826",
+        "date": "APR-I",
+        "sum_raw_reads": 13666,
+        "dataset": "Example",
+        "extra_target": "5737_3_F_klein_V3"
+    },
+    {
+        "lat": "50.213975",
+        "lon": "11.896473",
+        "date": "APR-I",
+        "sum_raw_reads": 15558,
+        "dataset": "Example",
+        "extra_target": "5737_3_G_klein_V3"
+    },
+    {
+        "lat": "50.115219",
+        "lon": "11.934746",
+        "date": "APR-I",
+        "sum_raw_reads": 18641,
+        "dataset": "Example",
+        "extra_target": "5837_4_F_klein_V3"
+    },
+    {
+        "lat": "50.111228",
+        "lon": "11.97416",
+        "date": "APR-I",
+        "sum_raw_reads": 12880,
+        "dataset": "Example",
+        "extra_target": "5837_4_G_klein_V3"
+    },
+    {
+        "lat": "50.17087",
+        "lon": "12.140457",
+        "date": "APR-I",
+        "sum_raw_reads": 16865,
+        "dataset": "Example",
+        "extra_target": "5838_2_U_klein_V3"
+    },
+    {
+        "lat": "50.032296",
+        "lon": "9.565229",
+        "date": "APR-I",
+        "sum_raw_reads": 19428,
+        "dataset": "Example",
+        "extra_target": "5923_3_F_klein_V3"
+    },
+    {
+        "lat": "50.009466",
+        "lon": "9.557592",
+        "date": "APR-I",
+        "sum_raw_reads": 35864,
+        "dataset": "Example",
+        "extra_target": "5923_3_G_klein_V3"
+    },
+    {
+        "lat": "50.033508",
+        "lon": "9.520374",
+        "date": "APR-I",
+        "sum_raw_reads": 43499,
+        "dataset": "Example",
+        "extra_target": "5923_3_U_klein_V3"
+    },
+    {
+        "lat": "50.034594",
+        "lon": "9.697595",
+        "date": "APR-I",
+        "sum_raw_reads": 44541,
+        "dataset": "Example",
+        "extra_target": "5924_3_A_klein_V3"
+    },
+    {
+        "lat": "50.012088",
+        "lon": "9.68706",
+        "date": "APR-I",
+        "sum_raw_reads": 43281,
+        "dataset": "Example",
+        "extra_target": "5924_3_F_klein_V3"
+    },
+    {
+        "lat": "50.029663",
+        "lon": "9.734729",
+        "date": "APR-I",
+        "sum_raw_reads": 29552,
+        "dataset": "Example",
+        "extra_target": "5924_3_U_klein_V3"
+    },
+    {
+        "lat": "50.096472",
+        "lon": "10.48299",
+        "date": "APR-I",
+        "sum_raw_reads": 74200,
+        "dataset": "Example",
+        "extra_target": "5928_2_A_klein_V3"
+    },
+    {
+        "lat": "50.071501",
+        "lon": "10.437306",
+        "date": "APR-I",
+        "sum_raw_reads": 91285,
+        "dataset": "Example",
+        "extra_target": "5928_2_F_klein_V3"
+    },
+    {
+        "lat": "50.072004",
+        "lon": "10.481275",
+        "date": "APR-I",
+        "sum_raw_reads": 51179,
+        "dataset": "Example",
+        "extra_target": "5928_2_U_klein_V3"
+    },
+    {
+        "lat": "50.010602",
+        "lon": "11.29315",
+        "date": "APR-I",
+        "sum_raw_reads": 37084,
+        "dataset": "Example",
+        "extra_target": "5933_4_A_klein_V3"
+    },
+    {
+        "lat": "50.027559",
+        "lon": "11.312035",
+        "date": "APR-I",
+        "sum_raw_reads": 38906,
+        "dataset": "Example",
+        "extra_target": "5933_4_U_klein_V3"
+    },
+    {
+        "lat": "50.03465",
+        "lon": "12.03883",
+        "date": "APR-I",
+        "sum_raw_reads": 40002,
+        "dataset": "Example",
+        "extra_target": "5938_3_A_klein_V3"
+    },
+    {
+        "lat": "50.01098",
+        "lon": "12.043509",
+        "date": "APR-I",
+        "sum_raw_reads": 18069,
+        "dataset": "Example",
+        "extra_target": "5938_3_F_klein_V3"
+    },
+    {
+        "lat": "50.015394",
+        "lon": "12.017609",
+        "date": "APR-I",
+        "sum_raw_reads": 34008,
+        "dataset": "Example",
+        "extra_target": "5938_3_U_klein_V3"
+    },
+    {
+        "lat": "49.969202",
+        "lon": "9.356396",
+        "date": "APR-I",
+        "sum_raw_reads": 21243,
+        "dataset": "Example",
+        "extra_target": "6022_1_F_klein_V3"
+    },
+    {
+        "lat": "49.976701",
+        "lon": "9.387982",
+        "date": "APR-I",
+        "sum_raw_reads": 24030,
+        "dataset": "Example",
+        "extra_target": "6022_1_G_klein_V3"
+    },
+    {
+        "lat": "49.963367",
+        "lon": "9.389076",
+        "date": "APR-I",
+        "sum_raw_reads": 16798,
+        "dataset": "Example",
+        "extra_target": "6022_1_U_klein_V3"
+    },
+    {
+        "lat": "49.918494",
+        "lon": "10.055316",
+        "date": "APR-I",
+        "sum_raw_reads": 36369,
+        "dataset": "Example",
+        "extra_target": "6026_3_A_klein_V3"
+    },
+    {
+        "lat": "49.929265",
+        "lon": "10.021698",
+        "date": "APR-I",
+        "sum_raw_reads": 62890,
+        "dataset": "Example",
+        "extra_target": "6026_3_G_klein_V3"
+    },
+    {
+        "lat": "49.937976",
+        "lon": "10.0513",
+        "date": "APR-I",
+        "sum_raw_reads": 62556,
+        "dataset": "Example",
+        "extra_target": "6026_3_U_klein_V3"
+    },
+    {
+        "lat": "49.920055",
+        "lon": "10.191534",
+        "date": "APR-I",
+        "sum_raw_reads": 24181,
+        "dataset": "Example",
+        "extra_target": "6027_3_A_klein_V3"
+    },
+    {
+        "lat": "49.93725",
+        "lon": "10.197381",
+        "date": "APR-I",
+        "sum_raw_reads": 18106,
+        "dataset": "Example",
+        "extra_target": "6027_3_F_klein_V3"
+    },
+    {
+        "lat": "49.921712",
+        "lon": "10.234173",
+        "date": "APR-I",
+        "sum_raw_reads": 19561,
+        "dataset": "Example",
+        "extra_target": "6027_3_U_klein_V3"
+    },
+    {
+        "lat": "49.917655",
+        "lon": "10.555232",
+        "date": "APR-I",
+        "sum_raw_reads": 21550,
+        "dataset": "Example",
+        "extra_target": "6029_3_A_klein_V3"
+    },
+    {
+        "lat": "49.91667",
+        "lon": "10.52549",
+        "date": "APR-I",
+        "sum_raw_reads": 34065,
+        "dataset": "Example",
+        "extra_target": "6029_3_F_klein_V3"
+    },
+    {
+        "lat": "49.91816",
+        "lon": "10.56034",
+        "date": "APR-I",
+        "sum_raw_reads": 24343,
+        "dataset": "Example",
+        "extra_target": "6029_3_G_klein_V3"
+    },
+    {
+        "lat": "49.916388",
+        "lon": "10.937508",
+        "date": "APR-I",
+        "sum_raw_reads": 23071,
+        "dataset": "Example",
+        "extra_target": "6031_4_F_klein_V3"
+    },
+    {
+        "lat": "49.936333",
+        "lon": "10.95863",
+        "date": "APR-I",
+        "sum_raw_reads": 22188,
+        "dataset": "Example",
+        "extra_target": "6031_4_G_klein_V3"
+    },
+    {
+        "lat": "49.933887",
+        "lon": "10.9604",
+        "date": "APR-I",
+        "sum_raw_reads": 56105,
+        "dataset": "Example",
+        "extra_target": "6031_4_U_klein_V3"
+    },
+    {
+        "lat": "49.928374",
+        "lon": "11.087313",
+        "date": "APR-I",
+        "sum_raw_reads": 64201,
+        "dataset": "Example",
+        "extra_target": "6032_4_A_klein_V3"
+    },
+    {
+        "lat": "49.911649",
+        "lon": "11.128695",
+        "date": "APR-I",
+        "sum_raw_reads": 29824,
+        "dataset": "Example",
+        "extra_target": "6032_4_F_klein_V3"
+    },
+    {
+        "lat": "49.910098",
+        "lon": "11.107651",
+        "date": "APR-I",
+        "sum_raw_reads": 20212,
+        "dataset": "Example",
+        "extra_target": "6032_4_G_klein_V3"
+    },
+    {
+        "lat": "49.992107",
+        "lon": "11.482472",
+        "date": "APR-I",
+        "sum_raw_reads": 25193,
+        "dataset": "Example",
+        "extra_target": "6034_2_F_klein_V3"
+    },
+    {
+        "lat": "49.967354",
+        "lon": "11.437162",
+        "date": "APR-I",
+        "sum_raw_reads": 19245,
+        "dataset": "Example",
+        "extra_target": "6034_2_G_klein_V3"
+    },
+    {
+        "lat": "49.988815",
+        "lon": "11.602884",
+        "date": "APR-I",
+        "sum_raw_reads": 26827,
+        "dataset": "Example",
+        "extra_target": "6035_2_A_klein_V3"
+    },
+    {
+        "lat": "49.977251",
+        "lon": "11.642095",
+        "date": "APR-I",
+        "sum_raw_reads": 47763,
+        "dataset": "Example",
+        "extra_target": "6035_2_G_klein_V3"
+    },
+    {
+        "lat": "49.902546",
+        "lon": "11.554866",
+        "date": "APR-I",
+        "sum_raw_reads": 24542,
+        "dataset": "Example",
+        "extra_target": "6035_3_A_klein_V3"
+    },
+    {
+        "lat": "49.935527",
+        "lon": "11.573567",
+        "date": "APR-I",
+        "sum_raw_reads": 31663,
+        "dataset": "Example",
+        "extra_target": "6035_3_U_klein_V3"
+    },
+    {
+        "lat": "49.827042",
+        "lon": "9.472531",
+        "date": "APR-I",
+        "sum_raw_reads": 26309,
+        "dataset": "Example",
+        "extra_target": "6122_4_A_klein_V3"
+    },
+    {
+        "lat": "49.818649",
+        "lon": "9.445657",
+        "date": "APR-I",
+        "sum_raw_reads": 34779,
+        "dataset": "Example",
+        "extra_target": "6122_4_F_klein_V3"
+    },
+    {
+        "lat": "49.839661",
+        "lon": "9.452028",
+        "date": "APR-I",
+        "sum_raw_reads": 46054,
+        "dataset": "Example",
+        "extra_target": "6122_4_G_klein_V3"
+    },
+    {
+        "lat": "49.867367",
+        "lon": "9.538102",
+        "date": "APR-I",
+        "sum_raw_reads": 29995,
+        "dataset": "Example",
+        "extra_target": "6123_1_A_klein_V3"
+    },
+    {
+        "lat": "49.873636",
+        "lon": "9.536612",
+        "date": "APR-I",
+        "sum_raw_reads": 27907,
+        "dataset": "Example",
+        "extra_target": "6123_1_F_klein_V3"
+    },
+    {
+        "lat": "49.86794",
+        "lon": "9.51605",
+        "date": "APR-I",
+        "sum_raw_reads": 19547,
+        "dataset": "Example",
+        "extra_target": "6123_1_G_klein_V3"
+    },
+    {
+        "lat": "49.874113",
+        "lon": "9.963159",
+        "date": "APR-I",
+        "sum_raw_reads": 24475,
+        "dataset": "Example",
+        "extra_target": "6125_2_A_klein_V3"
+    },
+    {
+        "lat": "49.873154",
+        "lon": "9.932433",
+        "date": "APR-I",
+        "sum_raw_reads": 44118,
+        "dataset": "Example",
+        "extra_target": "6125_2_F_klein_V3"
+    },
+    {
+        "lat": "49.859281",
+        "lon": "9.953438",
+        "date": "APR-I",
+        "sum_raw_reads": 34846,
+        "dataset": "Example",
+        "extra_target": "6125_2_U_klein_V3"
+    },
+    {
+        "lat": "49.872797",
+        "lon": "10.869569",
+        "date": "APR-I",
+        "sum_raw_reads": 33963,
+        "dataset": "Example",
+        "extra_target": "6131_1_A_klein_V3"
+    },
+    {
+        "lat": "49.856207",
+        "lon": "10.898928",
+        "date": "APR-I",
+        "sum_raw_reads": 19062,
+        "dataset": "Example",
+        "extra_target": "6131_1_F_klein_V3"
+    },
+    {
+        "lat": "49.775526",
+        "lon": "9.774571",
+        "date": "APR-I",
+        "sum_raw_reads": 27398,
+        "dataset": "Example",
+        "extra_target": "6224_2_A_klein_V3"
+    },
+    {
+        "lat": "49.763573",
+        "lon": "9.768748",
+        "date": "APR-I",
+        "sum_raw_reads": 34055,
+        "dataset": "Example",
+        "extra_target": "6224_2_F_klein_V3"
+    },
+    {
+        "lat": "49.76218",
+        "lon": "9.803023",
+        "date": "APR-I",
+        "sum_raw_reads": 36062,
+        "dataset": "Example",
+        "extra_target": "6224_2_U_klein_V3"
+    },
+    {
+        "lat": "49.772028",
+        "lon": "9.969936",
+        "date": "APR-I",
+        "sum_raw_reads": 23599,
+        "dataset": "Example",
+        "extra_target": "6225_2_A_klein_V3"
+    },
+    {
+        "lat": "49.778386",
+        "lon": "9.960221",
+        "date": "APR-I",
+        "sum_raw_reads": 19848,
+        "dataset": "Example",
+        "extra_target": "6225_2_F_klein_V3"
+    },
+    {
+        "lat": "49.77293",
+        "lon": "9.929597",
+        "date": "APR-I",
+        "sum_raw_reads": 16035,
+        "dataset": "Example",
+        "extra_target": "6225_2_U_klein_V3"
+    },
+    {
+        "lat": "49.738806",
+        "lon": "10.968528",
+        "date": "APR-I",
+        "sum_raw_reads": 17742,
+        "dataset": "Example",
+        "extra_target": "6231_4_A_klein_V3"
+    },
+    {
+        "lat": "49.732863",
+        "lon": "10.984689",
+        "date": "APR-I",
+        "sum_raw_reads": 16371,
+        "dataset": "Example",
+        "extra_target": "6231_4_F_klein_V3"
+    },
+    {
+        "lat": "49.791936",
+        "lon": "11.427653",
+        "date": "APR-I",
+        "sum_raw_reads": 20359,
+        "dataset": "Example",
+        "extra_target": "6234_2_A_klein_V3"
+    },
+    {
+        "lat": "49.759616",
+        "lon": "11.480165",
+        "date": "APR-I",
+        "sum_raw_reads": 33895,
+        "dataset": "Example",
+        "extra_target": "6234_2_F_klein_V3"
+    },
+    {
+        "lat": "49.776672",
+        "lon": "11.443351",
+        "date": "APR-I",
+        "sum_raw_reads": 22870,
+        "dataset": "Example",
+        "extra_target": "6234_2_G_klein_V3"
+    },
+    {
+        "lat": "49.692013",
+        "lon": "10.273802",
+        "date": "APR-I",
+        "sum_raw_reads": 36085,
+        "dataset": "Example",
+        "extra_target": "6327_2_A_klein_V3"
+    },
+    {
+        "lat": "49.69029",
+        "lon": "10.316314",
+        "date": "APR-I",
+        "sum_raw_reads": 53490,
+        "dataset": "Example",
+        "extra_target": "6327_2_G_klein_V3"
+    },
+    {
+        "lat": "49.667849",
+        "lon": "10.280393",
+        "date": "APR-I",
+        "sum_raw_reads": 48185,
+        "dataset": "Example",
+        "extra_target": "6327_2_U_klein_V3"
+    },
+    {
+        "lat": "49.400068",
+        "lon": "10.999459",
+        "date": "APR-I",
+        "sum_raw_reads": 43510,
+        "dataset": "Example",
+        "extra_target": "6532_3_A_klein_V3"
+    },
+    {
+        "lat": "49.414153",
+        "lon": "11.027121",
+        "date": "APR-I",
+        "sum_raw_reads": 28082,
+        "dataset": "Example",
+        "extra_target": "6532_3_F_klein_V3"
+    },
+    {
+        "lat": "49.420593",
+        "lon": "11.050254",
+        "date": "APR-I",
+        "sum_raw_reads": 21402,
+        "dataset": "Example",
+        "extra_target": "6532_3_U_klein_V3"
+    },
+    {
+        "lat": "49.41096",
+        "lon": "11.320103",
+        "date": "APR-I",
+        "sum_raw_reads": 22783,
+        "dataset": "Example",
+        "extra_target": "6533_4_F_klein_V3"
+    },
+    {
+        "lat": "49.411576",
+        "lon": "11.298321",
+        "date": "APR-I",
+        "sum_raw_reads": 20310,
+        "dataset": "Example",
+        "extra_target": "6533_4_U_klein_V3"
+    },
+    {
+        "lat": "49.12851261",
+        "lon": "11.72029174",
+        "date": "APR-I",
+        "sum_raw_reads": 20420,
+        "dataset": "Example",
+        "extra_target": "6836_3_A_klein_V3"
+    },
+    {
+        "lat": "49.14359677",
+        "lon": "11.71467913",
+        "date": "APR-I",
+        "sum_raw_reads": 31398,
+        "dataset": "Example",
+        "extra_target": "6836_3_F_klein_V3"
+    },
+    {
+        "lat": "49.13119792",
+        "lon": "11.7025895",
+        "date": "APR-I",
+        "sum_raw_reads": 8910,
+        "dataset": "Example",
+        "extra_target": "6836_3_G_klein_V3"
+    },
+    {
+        "lat": "49.04959",
+        "lon": "11.36605",
+        "date": "APR-I",
+        "sum_raw_reads": 17860,
+        "dataset": "Example",
+        "extra_target": "6934_1_F_klein_V3"
+    },
+    {
+        "lat": "49.04469",
+        "lon": "12.11394",
+        "date": "APR-I",
+        "sum_raw_reads": 20487,
+        "dataset": "Example",
+        "extra_target": "6938_4_A_klein_V3"
+    },
+    {
+        "lat": "49.04483",
+        "lon": "12.10857",
+        "date": "APR-I",
+        "sum_raw_reads": 61166,
+        "dataset": "Example",
+        "extra_target": "6938_4_G_klein_V3"
+    },
+    {
+        "lat": "49.00426",
+        "lon": "12.09667",
+        "date": "APR-I",
+        "sum_raw_reads": 27230,
+        "dataset": "Example",
+        "extra_target": "6938_4_U_klein_V3"
+    },
+    {
+        "lat": "48.94477",
+        "lon": "11.81127",
+        "date": "APR-I",
+        "sum_raw_reads": 27438,
+        "dataset": "Example",
+        "extra_target": "7036_4_A_klein_V3"
+    },
+    {
+        "lat": "48.94322",
+        "lon": "11.78501",
+        "date": "APR-I",
+        "sum_raw_reads": 29657,
+        "dataset": "Example",
+        "extra_target": "7036_4_F_klein_V3"
+    },
+    {
+        "lat": "48.92025",
+        "lon": "11.7508",
+        "date": "APR-I",
+        "sum_raw_reads": 28584,
+        "dataset": "Example",
+        "extra_target": "7036_4_G_klein_V3"
+    },
+    {
+        "lat": "48.810718",
+        "lon": "12.961088",
+        "date": "APR-I",
+        "sum_raw_reads": 16347,
+        "dataset": "Example",
+        "extra_target": "7143_4_G_klein_V3"
+    },
+    {
+        "lat": "48.840083",
+        "lon": "12.966222",
+        "date": "APR-I",
+        "sum_raw_reads": 22123,
+        "dataset": "Example",
+        "extra_target": "7143_4_U_klein_V3"
+    },
+    {
+        "lat": "48.880303",
+        "lon": "13.549673",
+        "date": "APR-I",
+        "sum_raw_reads": 7909,
+        "dataset": "Example",
+        "extra_target": "7147_1_F_klein_V3"
+    },
+    {
+        "lat": "48.860921",
+        "lon": "13.544862",
+        "date": "APR-I",
+        "sum_raw_reads": 21679,
+        "dataset": "Example",
+        "extra_target": "7147_1_G_klein_V3"
+    },
+    {
+        "lat": "48.786236",
+        "lon": "13.387424",
+        "date": "APR-I",
+        "sum_raw_reads": 19825,
+        "dataset": "Example",
+        "extra_target": "7246_1_A_klein_V3"
+    },
+    {
+        "lat": "48.778243",
+        "lon": "13.362636",
+        "date": "APR-I",
+        "sum_raw_reads": 22051,
+        "dataset": "Example",
+        "extra_target": "7246_1_F_klein_V3"
+    },
+    {
+        "lat": "48.765422",
+        "lon": "13.391953",
+        "date": "APR-I",
+        "sum_raw_reads": 11409,
+        "dataset": "Example",
+        "extra_target": "7246_1_G_klein_V3"
+    },
+    {
+        "lat": "48.64611",
+        "lon": "11.01893",
+        "date": "APR-I",
+        "sum_raw_reads": 24168,
+        "dataset": "Example",
+        "extra_target": "7332_3_A_klein_V3"
+    },
+    {
+        "lat": "48.64169",
+        "lon": "11.01877",
+        "date": "APR-I",
+        "sum_raw_reads": 16037,
+        "dataset": "Example",
+        "extra_target": "7332_3_F_klein_V3"
+    },
+    {
+        "lat": "48.62785",
+        "lon": "11.01863",
+        "date": "APR-I",
+        "sum_raw_reads": 5625,
+        "dataset": "Example",
+        "extra_target": "7332_3_G_klein_V3"
+    },
+    {
+        "lat": "48.57379507",
+        "lon": "11.88791715",
+        "date": "APR-I",
+        "sum_raw_reads": 17503,
+        "dataset": "Example",
+        "extra_target": "7437_1_A_klein_V3"
+    },
+    {
+        "lat": "48.57946082",
+        "lon": "11.84649789",
+        "date": "APR-I",
+        "sum_raw_reads": 15596,
+        "dataset": "Example",
+        "extra_target": "7437_1_F_klein_V3"
+    },
+    {
+        "lat": "48.57835215",
+        "lon": "11.86256717",
+        "date": "APR-I",
+        "sum_raw_reads": 6003,
+        "dataset": "Example",
+        "extra_target": "7437_1_G_klein_V3"
+    },
+    {
+        "lat": "48.488097",
+        "lon": "13.124446",
+        "date": "APR-I",
+        "sum_raw_reads": 16104,
+        "dataset": "Example",
+        "extra_target": "7446_1_F_klein_V3"
+    },
+    {
+        "lat": "48.560093",
+        "lon": "13.343207",
+        "date": "APR-I",
+        "sum_raw_reads": 13813,
+        "dataset": "Example",
+        "extra_target": "7446_1_G_klein_V3"
+    },
+    {
+        "lat": "48.575962",
+        "lon": "13.359196",
+        "date": "APR-I",
+        "sum_raw_reads": 15401,
+        "dataset": "Example",
+        "extra_target": "7446_1_U_klein_V3"
+    },
+    {
+        "lat": "48.583249",
+        "lon": "13.390587",
+        "date": "APR-I",
+        "sum_raw_reads": 16263,
+        "dataset": "Example",
+        "extra_target": "7544_2_A_klein_V3"
+    },
+    {
+        "lat": "48.465597",
+        "lon": "13.146349",
+        "date": "APR-I",
+        "sum_raw_reads": 17997,
+        "dataset": "Example",
+        "extra_target": "7544_2_F_klein_V3"
+    },
+    {
+        "lat": "48.479413",
+        "lon": "13.148819",
+        "date": "APR-I",
+        "sum_raw_reads": 11687,
+        "dataset": "Example",
+        "extra_target": "7544_2_G_klein_V3"
+    },
+    {
+        "lat": "48.463439",
+        "lon": "13.305301",
+        "date": "APR-I",
+        "sum_raw_reads": 20341,
+        "dataset": "Example",
+        "extra_target": "7545_2_A_klein_V3"
+    },
+    {
+        "lat": "48.474046",
+        "lon": "13.317516",
+        "date": "APR-I",
+        "sum_raw_reads": 12367,
+        "dataset": "Example",
+        "extra_target": "7545_2_F_klein_V3"
+    },
+    {
+        "lat": "48.475985",
+        "lon": "13.298897",
+        "date": "APR-I",
+        "sum_raw_reads": 10869,
+        "dataset": "Example",
+        "extra_target": "7545_2_U_klein_V3"
+    },
+    {
+        "lat": "48.436028",
+        "lon": "13.41041",
+        "date": "APR-I",
+        "sum_raw_reads": 34351,
+        "dataset": "Example",
+        "extra_target": "7546_3_A_klein_V3"
+    },
+    {
+        "lat": "48.432799",
+        "lon": "13.346354",
+        "date": "APR-I",
+        "sum_raw_reads": 32733,
+        "dataset": "Example",
+        "extra_target": "7546_3_G_klein_V3"
+    },
+    {
+        "lat": "48.409278",
+        "lon": "13.39906",
+        "date": "APR-I",
+        "sum_raw_reads": 15061,
+        "dataset": "Example",
+        "extra_target": "7546_3_U_klein_V3"
+    },
+    {
+        "lat": "48.268454",
+        "lon": "10.7739401",
+        "date": "APR-I",
+        "sum_raw_reads": 34840,
+        "dataset": "Example",
+        "extra_target": "7730_2_A_klein_V3"
+    },
+    {
+        "lat": "48.2648567",
+        "lon": "10.7663075",
+        "date": "APR-I",
+        "sum_raw_reads": 26944,
+        "dataset": "Example",
+        "extra_target": "7730_2_F_klein_V3"
+    },
+    {
+        "lat": "48.2718015",
+        "lon": "10.8403258",
+        "date": "APR-I",
+        "sum_raw_reads": 38192,
+        "dataset": "Example",
+        "extra_target": "7730_2_U_klein_V3"
+    },
+    {
+        "lat": "48.19283",
+        "lon": "11.51718",
+        "date": "APR-I",
+        "sum_raw_reads": 41437,
+        "dataset": "Example",
+        "extra_target": "7835_1_F_klein_V3"
+    },
+    {
+        "lat": "48.10691",
+        "lon": "11.95297",
+        "date": "APR-I",
+        "sum_raw_reads": 49986,
+        "dataset": "Example",
+        "extra_target": "7837_4_A_klein_V3"
+    },
+    {
+        "lat": "48.12172",
+        "lon": "11.95793",
+        "date": "APR-I",
+        "sum_raw_reads": 30839,
+        "dataset": "Example",
+        "extra_target": "7837_4_F_klein_V3"
+    },
+    {
+        "lat": "48.09727",
+        "lon": "11.97566",
+        "date": "APR-I",
+        "sum_raw_reads": 47849,
+        "dataset": "Example",
+        "extra_target": "7837_4_U_klein_V3"
+    },
+    {
+        "lat": "48.08496",
+        "lon": "11.58851",
+        "date": "APR-I",
+        "sum_raw_reads": 41693,
+        "dataset": "Example",
+        "extra_target": "7935_2_F_klein_V3"
+    },
+    {
+        "lat": "48.06033",
+        "lon": "11.64965",
+        "date": "APR-I",
+        "sum_raw_reads": 6692,
+        "dataset": "Example",
+        "extra_target": "7935_2_U_klein_V3"
+    },
+    {
+        "lat": "47.9629913",
+        "lon": "10.6762436",
+        "date": "APR-I",
+        "sum_raw_reads": 13834,
+        "dataset": "Example",
+        "extra_target": "8030_1_F_klein_V3"
+    },
+    {
+        "lat": "47.9770054",
+        "lon": "10.6861437",
+        "date": "APR-I",
+        "sum_raw_reads": 13482,
+        "dataset": "Example",
+        "extra_target": "8030_1_G_klein_V3"
+    },
+    {
+        "lat": "47.88582",
+        "lon": "10.82678",
+        "date": "APR-I",
+        "sum_raw_reads": 7082,
+        "dataset": "Example",
+        "extra_target": "8130_2_A mit 8030_1ag beschriftet _klein_V3"
+    },
+    {
+        "lat": "47.87829",
+        "lon": "10.81209",
+        "date": "APR-I",
+        "sum_raw_reads": 13626,
+        "dataset": "Example",
+        "extra_target": "8130_2_F_klein_V3"
+    },
+    {
+        "lat": "47.8692",
+        "lon": "10.83086",
+        "date": "APR-I",
+        "sum_raw_reads": 10534,
+        "dataset": "Example",
+        "extra_target": "8130_2_G_klein_V3"
+    },
+    {
+        "lat": "47.8224184",
+        "lon": "10.9115418",
+        "date": "APR-I",
+        "sum_raw_reads": 11798,
+        "dataset": "Example",
+        "extra_target": "8131_3_F_klein_V3"
+    },
+    {
+        "lat": "47.8103357",
+        "lon": "10.8881576",
+        "date": "APR-I",
+        "sum_raw_reads": 13250,
+        "dataset": "Example",
+        "extra_target": "8131_3_U_klein_V3"
+    },
+    {
+        "lat": "47.7595995",
+        "lon": "10.6430557",
+        "date": "APR-I",
+        "sum_raw_reads": 8385,
+        "dataset": "Example",
+        "extra_target": "8229_2_G_klein_V3"
+    },
+    {
+        "lat": "47.7812563",
+        "lon": "10.6236358",
+        "date": "APR-I",
+        "sum_raw_reads": 12250,
+        "dataset": "Example",
+        "extra_target": "8229_2_U_klein_V3"
+    },
+    {
+        "lat": "47.7704",
+        "lon": "11.5466",
+        "date": "APR-I",
+        "sum_raw_reads": 8560,
+        "dataset": "Example",
+        "extra_target": "8235_1_F_klein_V3"
+    },
+    {
+        "lat": "47.7746",
+        "lon": "11.54343",
+        "date": "APR-I",
+        "sum_raw_reads": 8410,
+        "dataset": "Example",
+        "extra_target": "8235_1_G_klein_V3"
+    },
+    {
+        "lat": "47.75695",
+        "lon": "11.58147",
+        "date": "APR-I",
+        "sum_raw_reads": 10635,
+        "dataset": "Example",
+        "extra_target": "8235_1_U_klein_V3"
+    },
+    {
+        "lat": "50.328201",
+        "lon": "11.763294",
+        "date": "APR-II",
+        "sum_raw_reads": 11871,
+        "dataset": "Example",
+        "extra_target": "5636_4_A_gro\u00df_V4"
+    },
+    {
+        "lat": "50.31231",
+        "lon": "11.81022",
+        "date": "APR-II",
+        "sum_raw_reads": 13136,
+        "dataset": "Example",
+        "extra_target": "5636_4_F_gro\u00df_V4"
+    },
+    {
+        "lat": "50.328093",
+        "lon": "11.80973",
+        "date": "APR-II",
+        "sum_raw_reads": 20633,
+        "dataset": "Example",
+        "extra_target": "5636_4_G_gro\u00df_V4"
+    },
+    {
+        "lat": "50.34059",
+        "lon": "11.84696",
+        "date": "APR-II",
+        "sum_raw_reads": 7866,
+        "dataset": "Example",
+        "extra_target": "5637_3_A_gro\u00df_V4"
+    },
+    {
+        "lat": "50.324574",
+        "lon": "11.85608",
+        "date": "APR-II",
+        "sum_raw_reads": 3921,
+        "dataset": "Example",
+        "extra_target": "5637_3_G_gro\u00df_V4"
+    },
+    {
+        "lat": "50.314272",
+        "lon": "11.89719",
+        "date": "APR-II",
+        "sum_raw_reads": 19792,
+        "dataset": "Example",
+        "extra_target": "5637_3_U_gro\u00df_V4"
+    },
+    {
+        "lat": "50.287344",
+        "lon": "10.456818",
+        "date": "APR-II",
+        "sum_raw_reads": 10122,
+        "dataset": "Example",
+        "extra_target": "5728_2_A_gro\u00df_V4"
+    },
+    {
+        "lat": "50.259487",
+        "lon": "10.446889",
+        "date": "APR-II",
+        "sum_raw_reads": 5386,
+        "dataset": "Example",
+        "extra_target": "5728_2_F_gro\u00df_V4"
+    },
+    {
+        "lat": "50.291598",
+        "lon": "10.483936",
+        "date": "APR-II",
+        "sum_raw_reads": 5886,
+        "dataset": "Example",
+        "extra_target": "5728_2_G_gro\u00df_V4"
+    },
+    {
+        "lat": "50.226669",
+        "lon": "11.857593",
+        "date": "APR-II",
+        "sum_raw_reads": 3692,
+        "dataset": "Example",
+        "extra_target": "5737_3_A_gro\u00df_V4"
+    },
+    {
+        "lat": "50.230841",
+        "lon": "11.891826",
+        "date": "APR-II",
+        "sum_raw_reads": 17667,
+        "dataset": "Example",
+        "extra_target": "5737_3_F_gro\u00df_V4"
+    },
+    {
+        "lat": "50.213975",
+        "lon": "11.896473",
+        "date": "APR-II",
+        "sum_raw_reads": 6093,
+        "dataset": "Example",
+        "extra_target": "5737_3_G_gro\u00df_V4"
+    },
+    {
+        "lat": "50.14342",
+        "lon": "11.959142",
+        "date": "APR-II",
+        "sum_raw_reads": 12434,
+        "dataset": "Example",
+        "extra_target": "5837_4_A_gro\u00df_V4"
+    },
+    {
+        "lat": "50.115219",
+        "lon": "11.934746",
+        "date": "APR-II",
+        "sum_raw_reads": 18936,
+        "dataset": "Example",
+        "extra_target": "5837_4_F_gro\u00df_V4"
+    },
+    {
+        "lat": "50.111228",
+        "lon": "11.97416",
+        "date": "APR-II",
+        "sum_raw_reads": 14164,
+        "dataset": "Example",
+        "extra_target": "5837_4_G_gro\u00df_V4"
+    },
+    {
+        "lat": "50.187415",
+        "lon": "12.10048",
+        "date": "APR-II",
+        "sum_raw_reads": 6114,
+        "dataset": "Example",
+        "extra_target": "5838_2_F_gro\u00df_V4"
+    },
+    {
+        "lat": "50.17087",
+        "lon": "12.140457",
+        "date": "APR-II",
+        "sum_raw_reads": 12387,
+        "dataset": "Example",
+        "extra_target": "5838_2_U_gro\u00df_V4"
+    },
+    {
+        "lat": "50.032296",
+        "lon": "9.565229",
+        "date": "APR-II",
+        "sum_raw_reads": 5170,
+        "dataset": "Example",
+        "extra_target": "5923_3_F_gro\u00df_V4"
+    },
+    {
+        "lat": "50.009466",
+        "lon": "9.557592",
+        "date": "APR-II",
+        "sum_raw_reads": 7248,
+        "dataset": "Example",
+        "extra_target": "5923_3_G_gro\u00df_V4"
+    },
+    {
+        "lat": "50.033508",
+        "lon": "9.520374",
+        "date": "APR-II",
+        "sum_raw_reads": 14877,
+        "dataset": "Example",
+        "extra_target": "5923_3_U_gro\u00df_V4"
+    },
+    {
+        "lat": "50.034594",
+        "lon": "9.697595",
+        "date": "APR-II",
+        "sum_raw_reads": 7610,
+        "dataset": "Example",
+        "extra_target": "5924_3_A_gro\u00df_V4"
+    },
+    {
+        "lat": "50.012088",
+        "lon": "9.68706",
+        "date": "APR-II",
+        "sum_raw_reads": 20410,
+        "dataset": "Example",
+        "extra_target": "5924_3_F_gro\u00df_V4"
+    },
+    {
+        "lat": "50.029663",
+        "lon": "9.734729",
+        "date": "APR-II",
+        "sum_raw_reads": 10947,
+        "dataset": "Example",
+        "extra_target": "5924_3_U_gro\u00df_V4"
+    },
+    {
+        "lat": "50.096472",
+        "lon": "10.48299",
+        "date": "APR-II",
+        "sum_raw_reads": 17315,
+        "dataset": "Example",
+        "extra_target": "5928_2_A_gro\u00df_V4"
+    },
+    {
+        "lat": "50.071501",
+        "lon": "10.437306",
+        "date": "APR-II",
+        "sum_raw_reads": 13820,
+        "dataset": "Example",
+        "extra_target": "5928_2_F_gro\u00df_V4"
+    },
+    {
+        "lat": "50.072004",
+        "lon": "10.481275",
+        "date": "APR-II",
+        "sum_raw_reads": 13591,
+        "dataset": "Example",
+        "extra_target": "5928_2_U_gro\u00df_V4"
+    },
+    {
+        "lat": "50.010602",
+        "lon": "11.29315",
+        "date": "APR-II",
+        "sum_raw_reads": 5641,
+        "dataset": "Example",
+        "extra_target": "5933_4_A_gro\u00df_V4"
+    },
+    {
+        "lat": "50.027559",
+        "lon": "11.312035",
+        "date": "APR-II",
+        "sum_raw_reads": 8020,
+        "dataset": "Example",
+        "extra_target": "5933_4_U_gro\u00df_V4"
+    },
+    {
+        "lat": "50.075257",
+        "lon": "12.151705",
+        "date": "APR-II",
+        "sum_raw_reads": 14551,
+        "dataset": "Example",
+        "extra_target": "5938_2_A_gro\u00df_V4"
+    },
+    {
+        "lat": "50.06035",
+        "lon": "12.107458",
+        "date": "APR-II",
+        "sum_raw_reads": 8594,
+        "dataset": "Example",
+        "extra_target": "5938_2_G_gro\u00df_V4"
+    },
+    {
+        "lat": "50.03465",
+        "lon": "12.03883",
+        "date": "APR-II",
+        "sum_raw_reads": 5559,
+        "dataset": "Example",
+        "extra_target": "5938_3_A_gro\u00df_V4"
+    },
+    {
+        "lat": "50.01098",
+        "lon": "12.043509",
+        "date": "APR-II",
+        "sum_raw_reads": 17696,
+        "dataset": "Example",
+        "extra_target": "5938_3_F_gro\u00df_V4"
+    },
+    {
+        "lat": "50.015394",
+        "lon": "12.017609",
+        "date": "APR-II",
+        "sum_raw_reads": 6092,
+        "dataset": "Example",
+        "extra_target": "5938_3_U_gro\u00df_V4"
+    },
+    {
+        "lat": "49.969202",
+        "lon": "9.356396",
+        "date": "APR-II",
+        "sum_raw_reads": 8146,
+        "dataset": "Example",
+        "extra_target": "6022_1_F_gro\u00df_V4"
+    },
+    {
+        "lat": "49.976701",
+        "lon": "9.387982",
+        "date": "APR-II",
+        "sum_raw_reads": 13478,
+        "dataset": "Example",
+        "extra_target": "6022_1_G_gro\u00df_V4"
+    },
+    {
+        "lat": "49.963367",
+        "lon": "9.389076",
+        "date": "APR-II",
+        "sum_raw_reads": 18180,
+        "dataset": "Example",
+        "extra_target": "6022_1_U_gro\u00df_V4"
+    },
+    {
+        "lat": "49.918494",
+        "lon": "10.055316",
+        "date": "APR-II",
+        "sum_raw_reads": 13026,
+        "dataset": "Example",
+        "extra_target": "6026_3_A_gro\u00df_V4"
+    },
+    {
+        "lat": "49.929265",
+        "lon": "10.021698",
+        "date": "APR-II",
+        "sum_raw_reads": 25720,
+        "dataset": "Example",
+        "extra_target": "6026_3_G_gro\u00df_V4"
+    },
+    {
+        "lat": "49.937976",
+        "lon": "10.0513",
+        "date": "APR-II",
+        "sum_raw_reads": 11662,
+        "dataset": "Example",
+        "extra_target": "6026_3_U_gro\u00df_V4"
+    },
+    {
+        "lat": "49.920055",
+        "lon": "10.191534",
+        "date": "APR-II",
+        "sum_raw_reads": 5308,
+        "dataset": "Example",
+        "extra_target": "6027_3_A_gro\u00df_V4"
+    },
+    {
+        "lat": "49.93725",
+        "lon": "10.197381",
+        "date": "APR-II",
+        "sum_raw_reads": 24583,
+        "dataset": "Example",
+        "extra_target": "6027_3_F_gro\u00df_V4"
+    },
+    {
+        "lat": "49.921712",
+        "lon": "10.234173",
+        "date": "APR-II",
+        "sum_raw_reads": 5627,
+        "dataset": "Example",
+        "extra_target": "6027_3_U_gro\u00df_V4"
+    },
+    {
+        "lat": "49.917655",
+        "lon": "10.555232",
+        "date": "APR-II",
+        "sum_raw_reads": 20271,
+        "dataset": "Example",
+        "extra_target": "6029_3_A_gro\u00df_V4"
+    },
+    {
+        "lat": "49.91667",
+        "lon": "10.52549",
+        "date": "APR-II",
+        "sum_raw_reads": 29898,
+        "dataset": "Example",
+        "extra_target": "6029_3_F_gro\u00df_V4"
+    },
+    {
+        "lat": "49.91816",
+        "lon": "10.56034",
+        "date": "APR-II",
+        "sum_raw_reads": 29722,
+        "dataset": "Example",
+        "extra_target": "6029_3_G_gro\u00df_V4"
+    },
+    {
+        "lat": "49.916388",
+        "lon": "10.937508",
+        "date": "APR-II",
+        "sum_raw_reads": 17600,
+        "dataset": "Example",
+        "extra_target": "6031_4_F_gro\u00df_V4"
+    },
+    {
+        "lat": "49.936333",
+        "lon": "10.95863",
+        "date": "APR-II",
+        "sum_raw_reads": 45092,
+        "dataset": "Example",
+        "extra_target": "6031_4_G_gro\u00df_V4"
+    },
+    {
+        "lat": "49.933887",
+        "lon": "10.9604",
+        "date": "APR-II",
+        "sum_raw_reads": 37926,
+        "dataset": "Example",
+        "extra_target": "6031_4_U_gro\u00df_V4"
+    },
+    {
+        "lat": "49.928374",
+        "lon": "11.087313",
+        "date": "APR-II",
+        "sum_raw_reads": 29117,
+        "dataset": "Example",
+        "extra_target": "6032_4_A_gro\u00df_V4"
+    },
+    {
+        "lat": "49.911649",
+        "lon": "11.128695",
+        "date": "APR-II",
+        "sum_raw_reads": 31806,
+        "dataset": "Example",
+        "extra_target": "6032_4_F_gro\u00df_V4"
+    },
+    {
+        "lat": "49.910098",
+        "lon": "11.107651",
+        "date": "APR-II",
+        "sum_raw_reads": 23102,
+        "dataset": "Example",
+        "extra_target": "6032_4_G_gro\u00df_V4"
+    },
+    {
+        "lat": "49.978471",
+        "lon": "11.430507",
+        "date": "APR-II",
+        "sum_raw_reads": 13811,
+        "dataset": "Example",
+        "extra_target": "6034_2_A_gro\u00df_V4"
+    },
+    {
+        "lat": "49.992107",
+        "lon": "11.482472",
+        "date": "APR-II",
+        "sum_raw_reads": 19434,
+        "dataset": "Example",
+        "extra_target": "6034_2_F_gro\u00df_V4"
+    },
+    {
+        "lat": "49.967354",
+        "lon": "11.437162",
+        "date": "APR-II",
+        "sum_raw_reads": 8398,
+        "dataset": "Example",
+        "extra_target": "6034_2_G_gro\u00df_V4"
+    },
+    {
+        "lat": "49.958915",
+        "lon": "11.618364",
+        "date": "APR-II",
+        "sum_raw_reads": 14985,
+        "dataset": "Example",
+        "extra_target": "6035_2_U_gro\u00df_V4"
+    },
+    {
+        "lat": "49.902546",
+        "lon": "11.554866",
+        "date": "APR-II",
+        "sum_raw_reads": 28307,
+        "dataset": "Example",
+        "extra_target": "6035_3_A_gro\u00df_V4"
+    },
+    {
+        "lat": "49.925597",
+        "lon": "11.516487",
+        "date": "APR-II",
+        "sum_raw_reads": 15075,
+        "dataset": "Example",
+        "extra_target": "6035_3_F_gro\u00df_V4"
+    },
+    {
+        "lat": "49.935527",
+        "lon": "11.573567",
+        "date": "APR-II",
+        "sum_raw_reads": 34037,
+        "dataset": "Example",
+        "extra_target": "6035_3_U_gro\u00df_V4"
+    },
+    {
+        "lat": "49.827042",
+        "lon": "9.472531",
+        "date": "APR-II",
+        "sum_raw_reads": 23323,
+        "dataset": "Example",
+        "extra_target": "6122_4_A_gro\u00df_V4"
+    },
+    {
+        "lat": "49.818649",
+        "lon": "9.445657",
+        "date": "APR-II",
+        "sum_raw_reads": 26543,
+        "dataset": "Example",
+        "extra_target": "6122_4_F_gro\u00df_V4"
+    },
+    {
+        "lat": "49.839661",
+        "lon": "9.452028",
+        "date": "APR-II",
+        "sum_raw_reads": 21254,
+        "dataset": "Example",
+        "extra_target": "6122_4_G_gro\u00df_V4"
+    },
+    {
+        "lat": "49.867367",
+        "lon": "9.538102",
+        "date": "APR-II",
+        "sum_raw_reads": 24513,
+        "dataset": "Example",
+        "extra_target": "6123_1_A_gro\u00df_V4"
+    },
+    {
+        "lat": "49.873636",
+        "lon": "9.536612",
+        "date": "APR-II",
+        "sum_raw_reads": 19440,
+        "dataset": "Example",
+        "extra_target": "6123_1_F_gro\u00df_V4"
+    },
+    {
+        "lat": "49.86794",
+        "lon": "9.51605",
+        "date": "APR-II",
+        "sum_raw_reads": 41989,
+        "dataset": "Example",
+        "extra_target": "6123_1_G_gro\u00df_V4"
+    },
+    {
+        "lat": "49.874113",
+        "lon": "9.963159",
+        "date": "APR-II",
+        "sum_raw_reads": 11789,
+        "dataset": "Example",
+        "extra_target": "6125_2_A_gro\u00df_V4"
+    },
+    {
+        "lat": "49.873154",
+        "lon": "9.932433",
+        "date": "APR-II",
+        "sum_raw_reads": 32823,
+        "dataset": "Example",
+        "extra_target": "6125_2_F_gro\u00df_V4"
+    },
+    {
+        "lat": "49.859281",
+        "lon": "9.953438",
+        "date": "APR-II",
+        "sum_raw_reads": 17088,
+        "dataset": "Example",
+        "extra_target": "6125_2_U_gro\u00df_V4"
+    },
+    {
+        "lat": "49.872797",
+        "lon": "10.869569",
+        "date": "APR-II",
+        "sum_raw_reads": 5356,
+        "dataset": "Example",
+        "extra_target": "6131_1_A_gro\u00df_V4"
+    },
+    {
+        "lat": "49.856207",
+        "lon": "10.898928",
+        "date": "APR-II",
+        "sum_raw_reads": 14691,
+        "dataset": "Example",
+        "extra_target": "6131_1_F_gro\u00df_V4"
+    },
+    {
+        "lat": "49.825361",
+        "lon": "11.963423",
+        "date": "APR-II",
+        "sum_raw_reads": 12428,
+        "dataset": "Example",
+        "extra_target": "6137_4_F_gro\u00df_V4"
+    },
+    {
+        "lat": "49.839501",
+        "lon": "11.960325",
+        "date": "APR-II",
+        "sum_raw_reads": 14000,
+        "dataset": "Example",
+        "extra_target": "6137_4_G_gro\u00df_V4"
+    },
+    {
+        "lat": "49.775526",
+        "lon": "9.774571",
+        "date": "APR-II",
+        "sum_raw_reads": 13257,
+        "dataset": "Example",
+        "extra_target": "6224_2_A_gro\u00df_V4"
+    },
+    {
+        "lat": "49.763573",
+        "lon": "9.768748",
+        "date": "APR-II",
+        "sum_raw_reads": 12368,
+        "dataset": "Example",
+        "extra_target": "6224_2_F_gro\u00df_V4"
+    },
+    {
+        "lat": "49.76218",
+        "lon": "9.803023",
+        "date": "APR-II",
+        "sum_raw_reads": 21560,
+        "dataset": "Example",
+        "extra_target": "6224_2_U_gro\u00df_V4"
+    },
+    {
+        "lat": "49.772028",
+        "lon": "9.969936",
+        "date": "APR-II",
+        "sum_raw_reads": 20909,
+        "dataset": "Example",
+        "extra_target": "6225_2_A_gro\u00df_V4"
+    },
+    {
+        "lat": "49.778386",
+        "lon": "9.960221",
+        "date": "APR-II",
+        "sum_raw_reads": 9066,
+        "dataset": "Example",
+        "extra_target": "6225_2_F_gro\u00df_V4"
+    },
+    {
+        "lat": "49.77293",
+        "lon": "9.929597",
+        "date": "APR-II",
+        "sum_raw_reads": 22743,
+        "dataset": "Example",
+        "extra_target": "6225_2_U_gro\u00df_V4"
+    },
+    {
+        "lat": "49.738806",
+        "lon": "10.968528",
+        "date": "APR-II",
+        "sum_raw_reads": 13426,
+        "dataset": "Example",
+        "extra_target": "6231_4_A_gro\u00df_V4"
+    },
+    {
+        "lat": "49.732863",
+        "lon": "10.984689",
+        "date": "APR-II",
+        "sum_raw_reads": 8283,
+        "dataset": "Example",
+        "extra_target": "6231_4_F_gro\u00df_V4"
+    },
+    {
+        "lat": "49.709643",
+        "lon": "10.994226",
+        "date": "APR-II",
+        "sum_raw_reads": 17926,
+        "dataset": "Example",
+        "extra_target": "6231_4_G_gro\u00df_V4"
+    },
+    {
+        "lat": "49.791936",
+        "lon": "11.427653",
+        "date": "APR-II",
+        "sum_raw_reads": 10661,
+        "dataset": "Example",
+        "extra_target": "6234_2_A_gro\u00df_V4"
+    },
+    {
+        "lat": "49.759616",
+        "lon": "11.480165",
+        "date": "APR-II",
+        "sum_raw_reads": 14877,
+        "dataset": "Example",
+        "extra_target": "6234_2_F_gro\u00df_V4"
+    },
+    {
+        "lat": "49.776672",
+        "lon": "11.443351",
+        "date": "APR-II",
+        "sum_raw_reads": 19574,
+        "dataset": "Example",
+        "extra_target": "6234_2_G_gro\u00df_V4"
+    },
+    {
+        "lat": "49.692013",
+        "lon": "10.273802",
+        "date": "APR-II",
+        "sum_raw_reads": 19950,
+        "dataset": "Example",
+        "extra_target": "6327_2_A_gro\u00df_V4"
+    },
+    {
+        "lat": "49.69029",
+        "lon": "10.316314",
+        "date": "APR-II",
+        "sum_raw_reads": 14972,
+        "dataset": "Example",
+        "extra_target": "6327_2_G_gro\u00df_V4"
+    },
+    {
+        "lat": "49.667849",
+        "lon": "10.280393",
+        "date": "APR-II",
+        "sum_raw_reads": 16149,
+        "dataset": "Example",
+        "extra_target": "6327_2_U_gro\u00df_V4"
+    },
+    {
+        "lat": "49.400068",
+        "lon": "10.999459",
+        "date": "APR-II",
+        "sum_raw_reads": 27505,
+        "dataset": "Example",
+        "extra_target": "6532_3_A_gro\u00df_V4"
+    },
+    {
+        "lat": "49.414153",
+        "lon": "11.027121",
+        "date": "APR-II",
+        "sum_raw_reads": 12758,
+        "dataset": "Example",
+        "extra_target": "6532_3_F_gro\u00df_V4"
+    },
+    {
+        "lat": "49.420593",
+        "lon": "11.050254",
+        "date": "APR-II",
+        "sum_raw_reads": 26342,
+        "dataset": "Example",
+        "extra_target": "6532_3_U_gro\u00df_V4"
+    },
+    {
+        "lat": "49.41096",
+        "lon": "11.320103",
+        "date": "APR-II",
+        "sum_raw_reads": 10825,
+        "dataset": "Example",
+        "extra_target": "6533_4_F_gro\u00df_V4"
+    },
+    {
+        "lat": "49.442429",
+        "lon": "11.287828",
+        "date": "APR-II",
+        "sum_raw_reads": 18216,
+        "dataset": "Example",
+        "extra_target": "6533_4_G_gro\u00df_V4"
+    },
+    {
+        "lat": "49.411576",
+        "lon": "11.298321",
+        "date": "APR-II",
+        "sum_raw_reads": 17569,
+        "dataset": "Example",
+        "extra_target": "6533_4_U_gro\u00df_V4"
+    },
+    {
+        "lat": "49.12851261",
+        "lon": "11.72029174",
+        "date": "APR-II",
+        "sum_raw_reads": 22203,
+        "dataset": "Example",
+        "extra_target": "6836_3_A_gro\u00df_V4"
+    },
+    {
+        "lat": "49.14359677",
+        "lon": "11.71467913",
+        "date": "APR-II",
+        "sum_raw_reads": 13756,
+        "dataset": "Example",
+        "extra_target": "6836_3_F_gro\u00df_V4"
+    },
+    {
+        "lat": "49.13119792",
+        "lon": "11.7025895",
+        "date": "APR-II",
+        "sum_raw_reads": 21964,
+        "dataset": "Example",
+        "extra_target": "6836_3_G_gro\u00df_V4"
+    },
+    {
+        "lat": "49.06353",
+        "lon": "11.39215",
+        "date": "APR-II",
+        "sum_raw_reads": 11711,
+        "dataset": "Example",
+        "extra_target": "6934_1_A_gro\u00df_V4"
+    },
+    {
+        "lat": "49.04959",
+        "lon": "11.36605",
+        "date": "APR-II",
+        "sum_raw_reads": 20587,
+        "dataset": "Example",
+        "extra_target": "6934_1_F_gro\u00df_V4"
+    },
+    {
+        "lat": "49.06182",
+        "lon": "11.37473",
+        "date": "APR-II",
+        "sum_raw_reads": 22800,
+        "dataset": "Example",
+        "extra_target": "6934_1_G_gro\u00df_V4"
+    },
+    {
+        "lat": "49.04469",
+        "lon": "12.11394",
+        "date": "APR-II",
+        "sum_raw_reads": 19710,
+        "dataset": "Example",
+        "extra_target": "6938_4_A_gro\u00df_V4"
+    },
+    {
+        "lat": "49.04483",
+        "lon": "12.10857",
+        "date": "APR-II",
+        "sum_raw_reads": 28333,
+        "dataset": "Example",
+        "extra_target": "6938_4_G_gro\u00df_V4"
+    },
+    {
+        "lat": "49.00426",
+        "lon": "12.09667",
+        "date": "APR-II",
+        "sum_raw_reads": 30955,
+        "dataset": "Example",
+        "extra_target": "6938_4_U_gro\u00df_V4"
+    },
+    {
+        "lat": "49.08558",
+        "lon": "13.304759",
+        "date": "APR-II",
+        "sum_raw_reads": 11422,
+        "dataset": "Example",
+        "extra_target": "6945_2_F_gro\u00df_V4"
+    },
+    {
+        "lat": "49.05569",
+        "lon": "13.27097",
+        "date": "APR-II",
+        "sum_raw_reads": 11692,
+        "dataset": "Example",
+        "extra_target": "6945_2_G_gro\u00df_V4"
+    },
+    {
+        "lat": "48.94477",
+        "lon": "11.81127",
+        "date": "APR-II",
+        "sum_raw_reads": 24390,
+        "dataset": "Example",
+        "extra_target": "7036_4_A_gro\u00df_V4"
+    },
+    {
+        "lat": "48.94322",
+        "lon": "11.78501",
+        "date": "APR-II",
+        "sum_raw_reads": 18979,
+        "dataset": "Example",
+        "extra_target": "7036_4_F_gro\u00df_V4"
+    },
+    {
+        "lat": "48.92025",
+        "lon": "11.7508",
+        "date": "APR-II",
+        "sum_raw_reads": 21953,
+        "dataset": "Example",
+        "extra_target": "7036_4_G_gro\u00df_V4"
+    },
+    {
+        "lat": "48.839731",
+        "lon": "12.935566",
+        "date": "APR-II",
+        "sum_raw_reads": 21354,
+        "dataset": "Example",
+        "extra_target": "7143_4_F_gro\u00df_V4"
+    },
+    {
+        "lat": "48.810718",
+        "lon": "12.961088",
+        "date": "APR-II",
+        "sum_raw_reads": 25364,
+        "dataset": "Example",
+        "extra_target": "7143_4_G_gro\u00df_V4"
+    },
+    {
+        "lat": "48.840083",
+        "lon": "12.966222",
+        "date": "APR-II",
+        "sum_raw_reads": 26298,
+        "dataset": "Example",
+        "extra_target": "7143_4_U_gro\u00df_V4"
+    },
+    {
+        "lat": "48.880303",
+        "lon": "13.549673",
+        "date": "APR-II",
+        "sum_raw_reads": 31456,
+        "dataset": "Example",
+        "extra_target": "7147_1_F_gro\u00df_V4"
+    },
+    {
+        "lat": "48.860921",
+        "lon": "13.544862",
+        "date": "APR-II",
+        "sum_raw_reads": 19371,
+        "dataset": "Example",
+        "extra_target": "7147_1_G_gro\u00df_V4"
+    },
+    {
+        "lat": "48.786236",
+        "lon": "13.387424",
+        "date": "APR-II",
+        "sum_raw_reads": 35902,
+        "dataset": "Example",
+        "extra_target": "7246_1_A_gro\u00df_V4"
+    },
+    {
+        "lat": "48.778243",
+        "lon": "13.362636",
+        "date": "APR-II",
+        "sum_raw_reads": 21309,
+        "dataset": "Example",
+        "extra_target": "7246_1_F_gro\u00df_V4"
+    },
+    {
+        "lat": "48.765422",
+        "lon": "13.391953",
+        "date": "APR-II",
+        "sum_raw_reads": 27024,
+        "dataset": "Example",
+        "extra_target": "7246_1_G_gro\u00df_V4"
+    },
+    {
+        "lat": "48.64611",
+        "lon": "11.01893",
+        "date": "APR-II",
+        "sum_raw_reads": 22798,
+        "dataset": "Example",
+        "extra_target": "7332_3_A_gro\u00df_V4"
+    },
+    {
+        "lat": "48.64169",
+        "lon": "11.01877",
+        "date": "APR-II",
+        "sum_raw_reads": 32571,
+        "dataset": "Example",
+        "extra_target": "7332_3_F_gro\u00df_V4"
+    },
+    {
+        "lat": "48.62785",
+        "lon": "11.01863",
+        "date": "APR-II",
+        "sum_raw_reads": 42244,
+        "dataset": "Example",
+        "extra_target": "7332_3_G_gro\u00df_V4"
+    },
+    {
+        "lat": "48.57379507",
+        "lon": "11.88791715",
+        "date": "APR-II",
+        "sum_raw_reads": 32548,
+        "dataset": "Example",
+        "extra_target": "7437_1_A_gro\u00df_V4"
+    },
+    {
+        "lat": "48.57946082",
+        "lon": "11.84649789",
+        "date": "APR-II",
+        "sum_raw_reads": 20420,
+        "dataset": "Example",
+        "extra_target": "7437_1_F_gro\u00df_V4"
+    },
+    {
+        "lat": "48.57835215",
+        "lon": "11.86256717",
+        "date": "APR-II",
+        "sum_raw_reads": 50233,
+        "dataset": "Example",
+        "extra_target": "7437_1_G_gro\u00df_V4"
+    },
+    {
+        "lat": "48.488097",
+        "lon": "13.124446",
+        "date": "APR-II",
+        "sum_raw_reads": 19212,
+        "dataset": "Example",
+        "extra_target": "7446_1_F_gro\u00df_V4"
+    },
+    {
+        "lat": "48.560093",
+        "lon": "13.343207",
+        "date": "APR-II",
+        "sum_raw_reads": 10172,
+        "dataset": "Example",
+        "extra_target": "7446_1_G_gro\u00df_V4"
+    },
+    {
+        "lat": "48.575962",
+        "lon": "13.359196",
+        "date": "APR-II",
+        "sum_raw_reads": 39847,
+        "dataset": "Example",
+        "extra_target": "7446_1_U_gro\u00df_V4"
+    },
+    {
+        "lat": "48.583249",
+        "lon": "13.390587",
+        "date": "APR-II",
+        "sum_raw_reads": 11674,
+        "dataset": "Example",
+        "extra_target": "7544_2_A_gro\u00df_V4"
+    },
+    {
+        "lat": "48.465597",
+        "lon": "13.146349",
+        "date": "APR-II",
+        "sum_raw_reads": 14866,
+        "dataset": "Example",
+        "extra_target": "7544_2_F_gro\u00df_V4"
+    },
+    {
+        "lat": "48.463439",
+        "lon": "13.305301",
+        "date": "APR-II",
+        "sum_raw_reads": 12825,
+        "dataset": "Example",
+        "extra_target": "7545_2_A_gro\u00df_V4"
+    },
+    {
+        "lat": "48.474046",
+        "lon": "13.317516",
+        "date": "APR-II",
+        "sum_raw_reads": 15519,
+        "dataset": "Example",
+        "extra_target": "7545_2_F_gro\u00df_V4"
+    },
+    {
+        "lat": "48.475985",
+        "lon": "13.298897",
+        "date": "APR-II",
+        "sum_raw_reads": 13188,
+        "dataset": "Example",
+        "extra_target": "7545_2_U_gro\u00df_V4"
+    },
+    {
+        "lat": "48.436028",
+        "lon": "13.41041",
+        "date": "APR-II",
+        "sum_raw_reads": 23195,
+        "dataset": "Example",
+        "extra_target": "7546_3_A_gro\u00df_V4"
+    },
+    {
+        "lat": "48.432799",
+        "lon": "13.346354",
+        "date": "APR-II",
+        "sum_raw_reads": 18826,
+        "dataset": "Example",
+        "extra_target": "7546_3_G_gro\u00df_V4"
+    },
+    {
+        "lat": "48.409278",
+        "lon": "13.39906",
+        "date": "APR-II",
+        "sum_raw_reads": 8369,
+        "dataset": "Example",
+        "extra_target": "7546_3_U_gro\u00df_V4"
+    },
+    {
+        "lat": "48.2648567",
+        "lon": "10.7663075",
+        "date": "APR-II",
+        "sum_raw_reads": 9318,
+        "dataset": "Example",
+        "extra_target": "7730_2_F_gro\u00df_V4"
+    },
+    {
+        "lat": "48.19283",
+        "lon": "11.51718",
+        "date": "APR-II",
+        "sum_raw_reads": 9797,
+        "dataset": "Example",
+        "extra_target": "7835_1_F_gro\u00df_V4"
+    },
+    {
+        "lat": "48.19124",
+        "lon": "11.52476",
+        "date": "APR-II",
+        "sum_raw_reads": 6499,
+        "dataset": "Example",
+        "extra_target": "7835_1_G_gro\u00df_V4"
+    },
+    {
+        "lat": "48.10691",
+        "lon": "11.95297",
+        "date": "APR-II",
+        "sum_raw_reads": 13518,
+        "dataset": "Example",
+        "extra_target": "7837_4_A_gro\u00df_V4"
+    },
+    {
+        "lat": "48.12172",
+        "lon": "11.95793",
+        "date": "APR-II",
+        "sum_raw_reads": 25412,
+        "dataset": "Example",
+        "extra_target": "7837_4_F_gro\u00df_V4"
+    },
+    {
+        "lat": "48.09727",
+        "lon": "11.97566",
+        "date": "APR-II",
+        "sum_raw_reads": 8255,
+        "dataset": "Example",
+        "extra_target": "7837_4_U_gro\u00df_V4"
+    },
+    {
+        "lat": "48.05608",
+        "lon": "11.6248",
+        "date": "APR-II",
+        "sum_raw_reads": 12048,
+        "dataset": "Example",
+        "extra_target": "7935_2_A_gro\u00df_V4"
+    },
+    {
+        "lat": "48.08496",
+        "lon": "11.58851",
+        "date": "APR-II",
+        "sum_raw_reads": 17026,
+        "dataset": "Example",
+        "extra_target": "7935_2_F_gro\u00df_V4"
+    },
+    {
+        "lat": "48.06033",
+        "lon": "11.64965",
+        "date": "APR-II",
+        "sum_raw_reads": 8200,
+        "dataset": "Example",
+        "extra_target": "7935_2_U_gro\u00df_V4"
+    },
+    {
+        "lat": "47.87829",
+        "lon": "10.81209",
+        "date": "APR-II",
+        "sum_raw_reads": 24240,
+        "dataset": "Example",
+        "extra_target": "8130_2_F_gro\u00df_V4"
+    },
+    {
+        "lat": "47.8692",
+        "lon": "10.83086",
+        "date": "APR-II",
+        "sum_raw_reads": 10006,
+        "dataset": "Example",
+        "extra_target": "8130_2_G_gro\u00df_V4"
+    },
+    {
+        "lat": "47.76461",
+        "lon": "10.64641",
+        "date": "APR-II",
+        "sum_raw_reads": 7827,
+        "dataset": "Example",
+        "extra_target": "8229_2_F_gro\u00df_V4"
+    },
+    {
+        "lat": "47.7595995",
+        "lon": "10.6430557",
+        "date": "APR-II",
+        "sum_raw_reads": 24091,
+        "dataset": "Example",
+        "extra_target": "8229_2_G_gro\u00df_V4"
+    },
+    {
+        "lat": "47.7812563",
+        "lon": "10.6236358",
+        "date": "APR-II",
+        "sum_raw_reads": 20703,
+        "dataset": "Example",
+        "extra_target": "8229_2_U_gro\u00df_V4"
+    },
+    {
+        "lat": "47.7704",
+        "lon": "11.5466",
+        "date": "APR-II",
+        "sum_raw_reads": 5362,
+        "dataset": "Example",
+        "extra_target": "8235_1_F_gro\u00df_V4"
+    },
+    {
+        "lat": "47.7746",
+        "lon": "11.54343",
+        "date": "APR-II",
+        "sum_raw_reads": 49074,
+        "dataset": "Example",
+        "extra_target": "8235_1_G_gro\u00df_V4"
+    },
+    {
+        "lat": "47.75695",
+        "lon": "11.58147",
+        "date": "APR-II",
+        "sum_raw_reads": 16714,
+        "dataset": "Example",
+        "extra_target": "8235_1_U_gro\u00df_V4"
+    },
+    {
+        "lat": "50.328201",
+        "lon": "11.763294",
+        "date": "APR-II",
+        "sum_raw_reads": 36349,
+        "dataset": "Example",
+        "extra_target": "5636_4_A_klein_V4"
+    },
+    {
+        "lat": "50.31231",
+        "lon": "11.81022",
+        "date": "APR-II",
+        "sum_raw_reads": 14499,
+        "dataset": "Example",
+        "extra_target": "5636_4_F_klein_V4"
+    },
+    {
+        "lat": "50.328093",
+        "lon": "11.80973",
+        "date": "APR-II",
+        "sum_raw_reads": 12304,
+        "dataset": "Example",
+        "extra_target": "5636_4_G_klein_V4"
+    },
+    {
+        "lat": "50.34059",
+        "lon": "11.84696",
+        "date": "APR-II",
+        "sum_raw_reads": 8426,
+        "dataset": "Example",
+        "extra_target": "5637_3_A_klein_V4"
+    },
+    {
+        "lat": "50.324574",
+        "lon": "11.85608",
+        "date": "APR-II",
+        "sum_raw_reads": 16183,
+        "dataset": "Example",
+        "extra_target": "5637_3_G_klein_V4"
+    },
+    {
+        "lat": "50.314272",
+        "lon": "11.89719",
+        "date": "APR-II",
+        "sum_raw_reads": 12992,
+        "dataset": "Example",
+        "extra_target": "5637_3_U_klein_V4"
+    },
+    {
+        "lat": "50.287344",
+        "lon": "10.456818",
+        "date": "APR-II",
+        "sum_raw_reads": 5873,
+        "dataset": "Example",
+        "extra_target": "5728_2_A_klein_V4"
+    },
+    {
+        "lat": "50.259487",
+        "lon": "10.446889",
+        "date": "APR-II",
+        "sum_raw_reads": 10392,
+        "dataset": "Example",
+        "extra_target": "5728_2_F_klein_V4"
+    },
+    {
+        "lat": "50.291598",
+        "lon": "10.483936",
+        "date": "APR-II",
+        "sum_raw_reads": 34045,
+        "dataset": "Example",
+        "extra_target": "5728_2_G_klein_V4"
+    },
+    {
+        "lat": "50.226669",
+        "lon": "11.857593",
+        "date": "APR-II",
+        "sum_raw_reads": 15357,
+        "dataset": "Example",
+        "extra_target": "5737_3_A_klein_V4"
+    },
+    {
+        "lat": "50.230841",
+        "lon": "11.891826",
+        "date": "APR-II",
+        "sum_raw_reads": 11452,
+        "dataset": "Example",
+        "extra_target": "5737_3_F_klein_V4"
+    },
+    {
+        "lat": "50.213975",
+        "lon": "11.896473",
+        "date": "APR-II",
+        "sum_raw_reads": 17517,
+        "dataset": "Example",
+        "extra_target": "5737_3_G_klein_V4"
+    },
+    {
+        "lat": "50.14342",
+        "lon": "11.959142",
+        "date": "APR-II",
+        "sum_raw_reads": 7016,
+        "dataset": "Example",
+        "extra_target": "5837_4_A_klein_V4"
+    },
+    {
+        "lat": "50.115219",
+        "lon": "11.934746",
+        "date": "APR-II",
+        "sum_raw_reads": 11961,
+        "dataset": "Example",
+        "extra_target": "5837_4_F_klein_V4"
+    },
+    {
+        "lat": "50.111228",
+        "lon": "11.97416",
+        "date": "APR-II",
+        "sum_raw_reads": 13488,
+        "dataset": "Example",
+        "extra_target": "5837_4_G_klein_V4"
+    },
+    {
+        "lat": "50.187415",
+        "lon": "12.10048",
+        "date": "APR-II",
+        "sum_raw_reads": 21777,
+        "dataset": "Example",
+        "extra_target": "5838_2_F_klein_V4"
+    },
+    {
+        "lat": "50.17087",
+        "lon": "12.140457",
+        "date": "APR-II",
+        "sum_raw_reads": 12227,
+        "dataset": "Example",
+        "extra_target": "5838_2_U_klein_V4"
+    },
+    {
+        "lat": "50.032296",
+        "lon": "9.565229",
+        "date": "APR-II",
+        "sum_raw_reads": 22457,
+        "dataset": "Example",
+        "extra_target": "5923_3_F_klein_V4"
+    },
+    {
+        "lat": "50.009466",
+        "lon": "9.557592",
+        "date": "APR-II",
+        "sum_raw_reads": 2314,
+        "dataset": "Example",
+        "extra_target": "5923_3_G_klein_V4"
+    },
+    {
+        "lat": "50.033508",
+        "lon": "9.520374",
+        "date": "APR-II",
+        "sum_raw_reads": 17895,
+        "dataset": "Example",
+        "extra_target": "5923_3_U_klein_V4"
+    },
+    {
+        "lat": "50.034594",
+        "lon": "9.697595",
+        "date": "APR-II",
+        "sum_raw_reads": 17256,
+        "dataset": "Example",
+        "extra_target": "5924_3_A_klein_V4"
+    },
+    {
+        "lat": "50.012088",
+        "lon": "9.68706",
+        "date": "APR-II",
+        "sum_raw_reads": 18521,
+        "dataset": "Example",
+        "extra_target": "5924_3_F_klein_V4"
+    },
+    {
+        "lat": "50.029663",
+        "lon": "9.734729",
+        "date": "APR-II",
+        "sum_raw_reads": 11716,
+        "dataset": "Example",
+        "extra_target": "5924_3_U_klein_V4"
+    },
+    {
+        "lat": "50.096472",
+        "lon": "10.48299",
+        "date": "APR-II",
+        "sum_raw_reads": 14035,
+        "dataset": "Example",
+        "extra_target": "5928_2_A_klein_V4"
+    },
+    {
+        "lat": "50.071501",
+        "lon": "10.437306",
+        "date": "APR-II",
+        "sum_raw_reads": 17675,
+        "dataset": "Example",
+        "extra_target": "5928_2_F_klein_V4"
+    },
+    {
+        "lat": "50.072004",
+        "lon": "10.481275",
+        "date": "APR-II",
+        "sum_raw_reads": 10649,
+        "dataset": "Example",
+        "extra_target": "5928_2_U_klein_V4"
+    },
+    {
+        "lat": "50.010602",
+        "lon": "11.29315",
+        "date": "APR-II",
+        "sum_raw_reads": 12900,
+        "dataset": "Example",
+        "extra_target": "5933_4_A_klein_V4"
+    },
+    {
+        "lat": "50.027559",
+        "lon": "11.312035",
+        "date": "APR-II",
+        "sum_raw_reads": 5554,
+        "dataset": "Example",
+        "extra_target": "5933_4_U_klein_V4"
+    },
+    {
+        "lat": "50.075257",
+        "lon": "12.151705",
+        "date": "APR-II",
+        "sum_raw_reads": 14323,
+        "dataset": "Example",
+        "extra_target": "5938_2_A_klein_V4"
+    },
+    {
+        "lat": "50.06035",
+        "lon": "12.107458",
+        "date": "APR-II",
+        "sum_raw_reads": 5908,
+        "dataset": "Example",
+        "extra_target": "5938_2_G_klein_V4"
+    },
+    {
+        "lat": "50.03465",
+        "lon": "12.03883",
+        "date": "APR-II",
+        "sum_raw_reads": 14518,
+        "dataset": "Example",
+        "extra_target": "5938_3_A_klein_V4"
+    },
+    {
+        "lat": "50.01098",
+        "lon": "12.043509",
+        "date": "APR-II",
+        "sum_raw_reads": 14847,
+        "dataset": "Example",
+        "extra_target": "5938_3_F_klein_V4"
+    },
+    {
+        "lat": "50.015394",
+        "lon": "12.017609",
+        "date": "APR-II",
+        "sum_raw_reads": 13657,
+        "dataset": "Example",
+        "extra_target": "5938_3_U_klein_V4"
+    },
+    {
+        "lat": "49.969202",
+        "lon": "9.356396",
+        "date": "APR-II",
+        "sum_raw_reads": 3547,
+        "dataset": "Example",
+        "extra_target": "6022_1_F_klein_V4"
+    },
+    {
+        "lat": "49.976701",
+        "lon": "9.387982",
+        "date": "APR-II",
+        "sum_raw_reads": 10697,
+        "dataset": "Example",
+        "extra_target": "6022_1_G_klein_V4"
+    },
+    {
+        "lat": "49.963367",
+        "lon": "9.389076",
+        "date": "APR-II",
+        "sum_raw_reads": 8364,
+        "dataset": "Example",
+        "extra_target": "6022_1_U_klein_V4"
+    },
+    {
+        "lat": "49.918494",
+        "lon": "10.055316",
+        "date": "APR-II",
+        "sum_raw_reads": 13624,
+        "dataset": "Example",
+        "extra_target": "6026_3_A_klein_V4"
+    },
+    {
+        "lat": "49.929265",
+        "lon": "10.021698",
+        "date": "APR-II",
+        "sum_raw_reads": 13491,
+        "dataset": "Example",
+        "extra_target": "6026_3_G_klein_V4"
+    },
+    {
+        "lat": "49.937976",
+        "lon": "10.0513",
+        "date": "APR-II",
+        "sum_raw_reads": 4140,
+        "dataset": "Example",
+        "extra_target": "6026_3_U_klein_V4"
+    },
+    {
+        "lat": "49.920055",
+        "lon": "10.191534",
+        "date": "APR-II",
+        "sum_raw_reads": 8518,
+        "dataset": "Example",
+        "extra_target": "6027_3_A_klein_V4"
+    },
+    {
+        "lat": "49.93725",
+        "lon": "10.197381",
+        "date": "APR-II",
+        "sum_raw_reads": 19794,
+        "dataset": "Example",
+        "extra_target": "6027_3_F_klein_V4"
+    },
+    {
+        "lat": "49.921712",
+        "lon": "10.234173",
+        "date": "APR-II",
+        "sum_raw_reads": 4475,
+        "dataset": "Example",
+        "extra_target": "6027_3_U_klein_V4"
+    },
+    {
+        "lat": "49.917655",
+        "lon": "10.555232",
+        "date": "APR-II",
+        "sum_raw_reads": 20847,
+        "dataset": "Example",
+        "extra_target": "6029_3_A_klein_V4"
+    },
+    {
+        "lat": "49.91667",
+        "lon": "10.52549",
+        "date": "APR-II",
+        "sum_raw_reads": 35556,
+        "dataset": "Example",
+        "extra_target": "6029_3_F_klein_V4"
+    },
+    {
+        "lat": "49.91816",
+        "lon": "10.56034",
+        "date": "APR-II",
+        "sum_raw_reads": 14015,
+        "dataset": "Example",
+        "extra_target": "6029_3_G_klein_V4"
+    },
+    {
+        "lat": "49.916388",
+        "lon": "10.937508",
+        "date": "APR-II",
+        "sum_raw_reads": 16895,
+        "dataset": "Example",
+        "extra_target": "6031_4_F_klein_V4"
+    },
+    {
+        "lat": "49.936333",
+        "lon": "10.95863",
+        "date": "APR-II",
+        "sum_raw_reads": 6689,
+        "dataset": "Example",
+        "extra_target": "6031_4_G_klein_V4"
+    },
+    {
+        "lat": "49.933887",
+        "lon": "10.9604",
+        "date": "APR-II",
+        "sum_raw_reads": 14496,
+        "dataset": "Example",
+        "extra_target": "6031_4_U_klein_V4"
+    },
+    {
+        "lat": "49.928374",
+        "lon": "11.087313",
+        "date": "APR-II",
+        "sum_raw_reads": 11953,
+        "dataset": "Example",
+        "extra_target": "6032_4_A_klein_V4"
+    },
+    {
+        "lat": "49.911649",
+        "lon": "11.128695",
+        "date": "APR-II",
+        "sum_raw_reads": 6337,
+        "dataset": "Example",
+        "extra_target": "6032_4_F_klein_V4"
+    },
+    {
+        "lat": "49.910098",
+        "lon": "11.107651",
+        "date": "APR-II",
+        "sum_raw_reads": 13798,
+        "dataset": "Example",
+        "extra_target": "6032_4_G_klein_V4"
+    },
+    {
+        "lat": "49.978471",
+        "lon": "11.430507",
+        "date": "APR-II",
+        "sum_raw_reads": 10324,
+        "dataset": "Example",
+        "extra_target": "6034_2_A_klein_V4"
+    },
+    {
+        "lat": "49.992107",
+        "lon": "11.482472",
+        "date": "APR-II",
+        "sum_raw_reads": 8259,
+        "dataset": "Example",
+        "extra_target": "6034_2_F_klein_V4"
+    },
+    {
+        "lat": "49.967354",
+        "lon": "11.437162",
+        "date": "APR-II",
+        "sum_raw_reads": 10410,
+        "dataset": "Example",
+        "extra_target": "6034_2_G_klein_V4"
+    },
+    {
+        "lat": "49.958915",
+        "lon": "11.618364",
+        "date": "APR-II",
+        "sum_raw_reads": 42520,
+        "dataset": "Example",
+        "extra_target": "6035_2_U_klein_V4"
+    },
+    {
+        "lat": "49.902546",
+        "lon": "11.554866",
+        "date": "APR-II",
+        "sum_raw_reads": 21703,
+        "dataset": "Example",
+        "extra_target": "6035_3_A_klein_V4"
+    },
+    {
+        "lat": "49.925597",
+        "lon": "11.516487",
+        "date": "APR-II",
+        "sum_raw_reads": 15703,
+        "dataset": "Example",
+        "extra_target": "6035_3_F_klein_V4"
+    },
+    {
+        "lat": "49.935527",
+        "lon": "11.573567",
+        "date": "APR-II",
+        "sum_raw_reads": 16274,
+        "dataset": "Example",
+        "extra_target": "6035_3_U_klein_V4"
+    },
+    {
+        "lat": "49.827042",
+        "lon": "9.472531",
+        "date": "APR-II",
+        "sum_raw_reads": 6615,
+        "dataset": "Example",
+        "extra_target": "6122_4_A_klein_V4"
+    },
+    {
+        "lat": "49.818649",
+        "lon": "9.445657",
+        "date": "APR-II",
+        "sum_raw_reads": 9750,
+        "dataset": "Example",
+        "extra_target": "6122_4_F_klein_V4"
+    },
+    {
+        "lat": "49.839661",
+        "lon": "9.452028",
+        "date": "APR-II",
+        "sum_raw_reads": 4946,
+        "dataset": "Example",
+        "extra_target": "6122_4_G_klein_V4"
+    },
+    {
+        "lat": "49.867367",
+        "lon": "9.538102",
+        "date": "APR-II",
+        "sum_raw_reads": 19651,
+        "dataset": "Example",
+        "extra_target": "6123_1_A_klein_V4"
+    },
+    {
+        "lat": "49.873636",
+        "lon": "9.536612",
+        "date": "APR-II",
+        "sum_raw_reads": 10309,
+        "dataset": "Example",
+        "extra_target": "6123_1_F_klein_V4"
+    },
+    {
+        "lat": "49.86794",
+        "lon": "9.51605",
+        "date": "APR-II",
+        "sum_raw_reads": 8788,
+        "dataset": "Example",
+        "extra_target": "6123_1_G_klein_V4"
+    },
+    {
+        "lat": "49.874113",
+        "lon": "9.963159",
+        "date": "APR-II",
+        "sum_raw_reads": 16819,
+        "dataset": "Example",
+        "extra_target": "6125_2_A_klein_V4"
+    },
+    {
+        "lat": "49.873154",
+        "lon": "9.932433",
+        "date": "APR-II",
+        "sum_raw_reads": 52084,
+        "dataset": "Example",
+        "extra_target": "6125_2_F_klein_V4"
+    },
+    {
+        "lat": "49.859281",
+        "lon": "9.953438",
+        "date": "APR-II",
+        "sum_raw_reads": 18676,
+        "dataset": "Example",
+        "extra_target": "6125_2_U_klein_V4"
+    },
+    {
+        "lat": "49.872797",
+        "lon": "10.869569",
+        "date": "APR-II",
+        "sum_raw_reads": 17528,
+        "dataset": "Example",
+        "extra_target": "6131_1_A_klein_V4"
+    },
+    {
+        "lat": "49.856207",
+        "lon": "10.898928",
+        "date": "APR-II",
+        "sum_raw_reads": 13958,
+        "dataset": "Example",
+        "extra_target": "6131_1_F_klein_V4"
+    },
+    {
+        "lat": "49.825361",
+        "lon": "11.963423",
+        "date": "APR-II",
+        "sum_raw_reads": 5513,
+        "dataset": "Example",
+        "extra_target": "6137_4_F_klein_V4"
+    },
+    {
+        "lat": "49.839501",
+        "lon": "11.960325",
+        "date": "APR-II",
+        "sum_raw_reads": 18735,
+        "dataset": "Example",
+        "extra_target": "6137_4_G_klein_V4"
+    },
+    {
+        "lat": "49.775526",
+        "lon": "9.774571",
+        "date": "APR-II",
+        "sum_raw_reads": 14091,
+        "dataset": "Example",
+        "extra_target": "6224_2_A_klein_V4"
+    },
+    {
+        "lat": "49.763573",
+        "lon": "9.768748",
+        "date": "APR-II",
+        "sum_raw_reads": 3837,
+        "dataset": "Example",
+        "extra_target": "6224_2_F_klein_V4"
+    },
+    {
+        "lat": "49.76218",
+        "lon": "9.803023",
+        "date": "APR-II",
+        "sum_raw_reads": 29739,
+        "dataset": "Example",
+        "extra_target": "6224_2_U_klein_V4"
+    },
+    {
+        "lat": "49.772028",
+        "lon": "9.969936",
+        "date": "APR-II",
+        "sum_raw_reads": 13184,
+        "dataset": "Example",
+        "extra_target": "6225_2_A_klein_V4"
+    },
+    {
+        "lat": "49.778386",
+        "lon": "9.960221",
+        "date": "APR-II",
+        "sum_raw_reads": 11384,
+        "dataset": "Example",
+        "extra_target": "6225_2_F_klein_V4"
+    },
+    {
+        "lat": "49.77293",
+        "lon": "9.929597",
+        "date": "APR-II",
+        "sum_raw_reads": 17453,
+        "dataset": "Example",
+        "extra_target": "6225_2_U_klein_V4"
+    },
+    {
+        "lat": "49.738806",
+        "lon": "10.968528",
+        "date": "APR-II",
+        "sum_raw_reads": 55546,
+        "dataset": "Example",
+        "extra_target": "6231_4_A_klein_V4"
+    },
+    {
+        "lat": "49.732863",
+        "lon": "10.984689",
+        "date": "APR-II",
+        "sum_raw_reads": 16176,
+        "dataset": "Example",
+        "extra_target": "6231_4_F_klein_V4"
+    },
+    {
+        "lat": "49.709643",
+        "lon": "10.994226",
+        "date": "APR-II",
+        "sum_raw_reads": 16579,
+        "dataset": "Example",
+        "extra_target": "6231_4_G_klein_V4"
+    },
+    {
+        "lat": "49.791936",
+        "lon": "11.427653",
+        "date": "APR-II",
+        "sum_raw_reads": 17016,
+        "dataset": "Example",
+        "extra_target": "6234_2_A_klein_V4"
+    },
+    {
+        "lat": "49.759616",
+        "lon": "11.480165",
+        "date": "APR-II",
+        "sum_raw_reads": 5582,
+        "dataset": "Example",
+        "extra_target": "6234_2_F_klein_V4"
+    },
+    {
+        "lat": "49.776672",
+        "lon": "11.443351",
+        "date": "APR-II",
+        "sum_raw_reads": 10802,
+        "dataset": "Example",
+        "extra_target": "6234_2_G_klein_V4"
+    },
+    {
+        "lat": "49.692013",
+        "lon": "10.273802",
+        "date": "APR-II",
+        "sum_raw_reads": 13807,
+        "dataset": "Example",
+        "extra_target": "6327_2_A_klein_V4"
+    },
+    {
+        "lat": "49.69029",
+        "lon": "10.316314",
+        "date": "APR-II",
+        "sum_raw_reads": 3567,
+        "dataset": "Example",
+        "extra_target": "6327_2_G_klein_V4"
+    },
+    {
+        "lat": "49.667849",
+        "lon": "10.280393",
+        "date": "APR-II",
+        "sum_raw_reads": 33630,
+        "dataset": "Example",
+        "extra_target": "6327_2_U_klein_V4"
+    },
+    {
+        "lat": "49.400068",
+        "lon": "10.999459",
+        "date": "APR-II",
+        "sum_raw_reads": 10678,
+        "dataset": "Example",
+        "extra_target": "6532_3_A_klein_V4"
+    },
+    {
+        "lat": "49.414153",
+        "lon": "11.027121",
+        "date": "APR-II",
+        "sum_raw_reads": 14372,
+        "dataset": "Example",
+        "extra_target": "6532_3_F_klein_V4"
+    },
+    {
+        "lat": "49.420593",
+        "lon": "11.050254",
+        "date": "APR-II",
+        "sum_raw_reads": 61084,
+        "dataset": "Example",
+        "extra_target": "6532_3_U_klein_V4"
+    },
+    {
+        "lat": "49.41096",
+        "lon": "11.320103",
+        "date": "APR-II",
+        "sum_raw_reads": 28060,
+        "dataset": "Example",
+        "extra_target": "6533_4_F_klein_V4"
+    },
+    {
+        "lat": "49.442429",
+        "lon": "11.287828",
+        "date": "APR-II",
+        "sum_raw_reads": 16965,
+        "dataset": "Example",
+        "extra_target": "6533_4_G_klein_V4"
+    },
+    {
+        "lat": "49.411576",
+        "lon": "11.298321",
+        "date": "APR-II",
+        "sum_raw_reads": 15344,
+        "dataset": "Example",
+        "extra_target": "6533_4_U_klein_V4"
+    },
+    {
+        "lat": "49.12851261",
+        "lon": "11.72029174",
+        "date": "APR-II",
+        "sum_raw_reads": 5782,
+        "dataset": "Example",
+        "extra_target": "6836_3_A_klein_V4"
+    },
+    {
+        "lat": "49.14359677",
+        "lon": "11.71467913",
+        "date": "APR-II",
+        "sum_raw_reads": 18393,
+        "dataset": "Example",
+        "extra_target": "6836_3_F_klein_V4"
+    },
+    {
+        "lat": "49.13119792",
+        "lon": "11.7025895",
+        "date": "APR-II",
+        "sum_raw_reads": 14639,
+        "dataset": "Example",
+        "extra_target": "6836_3_G_klein_V4"
+    },
+    {
+        "lat": "49.06353",
+        "lon": "11.39215",
+        "date": "APR-II",
+        "sum_raw_reads": 11612,
+        "dataset": "Example",
+        "extra_target": "6934_1_A_klein_V4"
+    },
+    {
+        "lat": "49.04959",
+        "lon": "11.36605",
+        "date": "APR-II",
+        "sum_raw_reads": 16642,
+        "dataset": "Example",
+        "extra_target": "6934_1_F_klein_V4"
+    },
+    {
+        "lat": "49.06182",
+        "lon": "11.37473",
+        "date": "APR-II",
+        "sum_raw_reads": 10380,
+        "dataset": "Example",
+        "extra_target": "6934_1_G_klein_V4"
+    },
+    {
+        "lat": "49.04469",
+        "lon": "12.11394",
+        "date": "APR-II",
+        "sum_raw_reads": 12702,
+        "dataset": "Example",
+        "extra_target": "6938_4_A_klein_V4"
+    },
+    {
+        "lat": "49.04483",
+        "lon": "12.10857",
+        "date": "APR-II",
+        "sum_raw_reads": 20267,
+        "dataset": "Example",
+        "extra_target": "6938_4_G_klein_V4"
+    },
+    {
+        "lat": "49.00426",
+        "lon": "12.09667",
+        "date": "APR-II",
+        "sum_raw_reads": 60930,
+        "dataset": "Example",
+        "extra_target": "6938_4_U_klein_V4"
+    },
+    {
+        "lat": "49.08558",
+        "lon": "13.304759",
+        "date": "APR-II",
+        "sum_raw_reads": 25908,
+        "dataset": "Example",
+        "extra_target": "6945_2_F_klein_V4"
+    },
+    {
+        "lat": "49.05569",
+        "lon": "13.27097",
+        "date": "APR-II",
+        "sum_raw_reads": 16456,
+        "dataset": "Example",
+        "extra_target": "6945_2_G_klein_V4"
+    },
+    {
+        "lat": "48.94477",
+        "lon": "11.81127",
+        "date": "APR-II",
+        "sum_raw_reads": 24983,
+        "dataset": "Example",
+        "extra_target": "7036_4_A_klein_V4"
+    },
+    {
+        "lat": "48.94322",
+        "lon": "11.78501",
+        "date": "APR-II",
+        "sum_raw_reads": 7514,
+        "dataset": "Example",
+        "extra_target": "7036_4_F_klein_V4"
+    },
+    {
+        "lat": "48.92025",
+        "lon": "11.7508",
+        "date": "APR-II",
+        "sum_raw_reads": 14690,
+        "dataset": "Example",
+        "extra_target": "7036_4_G_klein_V4"
+    },
+    {
+        "lat": "48.839731",
+        "lon": "12.935566",
+        "date": "APR-II",
+        "sum_raw_reads": 6465,
+        "dataset": "Example",
+        "extra_target": "7143_4_F_klein_V4"
+    },
+    {
+        "lat": "48.810718",
+        "lon": "12.961088",
+        "date": "APR-II",
+        "sum_raw_reads": 8673,
+        "dataset": "Example",
+        "extra_target": "7143_4_G_klein_V4"
+    },
+    {
+        "lat": "48.840083",
+        "lon": "12.966222",
+        "date": "APR-II",
+        "sum_raw_reads": 12391,
+        "dataset": "Example",
+        "extra_target": "7143_4_U_klein_V4"
+    },
+    {
+        "lat": "48.880303",
+        "lon": "13.549673",
+        "date": "APR-II",
+        "sum_raw_reads": 30713,
+        "dataset": "Example",
+        "extra_target": "7147_1_F_klein_V4"
+    },
+    {
+        "lat": "48.860921",
+        "lon": "13.544862",
+        "date": "APR-II",
+        "sum_raw_reads": 16760,
+        "dataset": "Example",
+        "extra_target": "7147_1_G_klein_V4"
+    },
+    {
+        "lat": "48.786236",
+        "lon": "13.387424",
+        "date": "APR-II",
+        "sum_raw_reads": 31063,
+        "dataset": "Example",
+        "extra_target": "7246_1_A_klein_V4"
+    },
+    {
+        "lat": "48.778243",
+        "lon": "13.362636",
+        "date": "APR-II",
+        "sum_raw_reads": 15483,
+        "dataset": "Example",
+        "extra_target": "7246_1_F_klein_V4"
+    },
+    {
+        "lat": "48.765422",
+        "lon": "13.391953",
+        "date": "APR-II",
+        "sum_raw_reads": 13491,
+        "dataset": "Example",
+        "extra_target": "7246_1_G_klein_V4"
+    },
+    {
+        "lat": "48.64611",
+        "lon": "11.01893",
+        "date": "APR-II",
+        "sum_raw_reads": 6969,
+        "dataset": "Example",
+        "extra_target": "7332_3_A_klein_V4"
+    },
+    {
+        "lat": "48.64169",
+        "lon": "11.01877",
+        "date": "APR-II",
+        "sum_raw_reads": 20036,
+        "dataset": "Example",
+        "extra_target": "7332_3_F_klein_V4"
+    },
+    {
+        "lat": "48.62785",
+        "lon": "11.01863",
+        "date": "APR-II",
+        "sum_raw_reads": 14925,
+        "dataset": "Example",
+        "extra_target": "7332_3_G_klein_V4"
+    },
+    {
+        "lat": "48.57379507",
+        "lon": "11.88791715",
+        "date": "APR-II",
+        "sum_raw_reads": 29817,
+        "dataset": "Example",
+        "extra_target": "7437_1_A_klein_V4"
+    },
+    {
+        "lat": "48.57946082",
+        "lon": "11.84649789",
+        "date": "APR-II",
+        "sum_raw_reads": 9527,
+        "dataset": "Example",
+        "extra_target": "7437_1_F_klein_V4"
+    },
+    {
+        "lat": "48.57835215",
+        "lon": "11.86256717",
+        "date": "APR-II",
+        "sum_raw_reads": 30903,
+        "dataset": "Example",
+        "extra_target": "7437_1_G_klein_V4"
+    },
+    {
+        "lat": "48.488097",
+        "lon": "13.124446",
+        "date": "APR-II",
+        "sum_raw_reads": 18012,
+        "dataset": "Example",
+        "extra_target": "7446_1_F_klein_V4"
+    },
+    {
+        "lat": "48.560093",
+        "lon": "13.343207",
+        "date": "APR-II",
+        "sum_raw_reads": 20473,
+        "dataset": "Example",
+        "extra_target": "7446_1_G_klein_V4"
+    },
+    {
+        "lat": "48.575962",
+        "lon": "13.359196",
+        "date": "APR-II",
+        "sum_raw_reads": 21802,
+        "dataset": "Example",
+        "extra_target": "7446_1_U_klein_V4"
+    },
+    {
+        "lat": "48.583249",
+        "lon": "13.390587",
+        "date": "APR-II",
+        "sum_raw_reads": 16934,
+        "dataset": "Example",
+        "extra_target": "7544_2_A_klein_V4"
+    },
+    {
+        "lat": "48.465597",
+        "lon": "13.146349",
+        "date": "APR-II",
+        "sum_raw_reads": 13882,
+        "dataset": "Example",
+        "extra_target": "7544_2_F_klein_V4"
+    },
+    {
+        "lat": "48.463439",
+        "lon": "13.305301",
+        "date": "APR-II",
+        "sum_raw_reads": 9695,
+        "dataset": "Example",
+        "extra_target": "7545_2_A_klein_V4"
+    },
+    {
+        "lat": "48.474046",
+        "lon": "13.317516",
+        "date": "APR-II",
+        "sum_raw_reads": 15427,
+        "dataset": "Example",
+        "extra_target": "7545_2_F_klein_V4"
+    },
+    {
+        "lat": "48.475985",
+        "lon": "13.298897",
+        "date": "APR-II",
+        "sum_raw_reads": 8699,
+        "dataset": "Example",
+        "extra_target": "7545_2_U_klein_V4"
+    },
+    {
+        "lat": "48.436028",
+        "lon": "13.41041",
+        "date": "APR-II",
+        "sum_raw_reads": 34337,
+        "dataset": "Example",
+        "extra_target": "7546_3_A_klein_V4"
+    },
+    {
+        "lat": "48.432799",
+        "lon": "13.346354",
+        "date": "APR-II",
+        "sum_raw_reads": 9956,
+        "dataset": "Example",
+        "extra_target": "7546_3_G_klein_V4"
+    },
+    {
+        "lat": "48.409278",
+        "lon": "13.39906",
+        "date": "APR-II",
+        "sum_raw_reads": 19556,
+        "dataset": "Example",
+        "extra_target": "7546_3_U_klein_V4"
+    },
+    {
+        "lat": "48.2648567",
+        "lon": "10.7663075",
+        "date": "APR-II",
+        "sum_raw_reads": 18480,
+        "dataset": "Example",
+        "extra_target": "7730_2_F_klein_V4"
+    },
+    {
+        "lat": "48.19283",
+        "lon": "11.51718",
+        "date": "APR-II",
+        "sum_raw_reads": 25251,
+        "dataset": "Example",
+        "extra_target": "7835_1_F_klein_V4"
+    },
+    {
+        "lat": "48.19124",
+        "lon": "11.52476",
+        "date": "APR-II",
+        "sum_raw_reads": 22519,
+        "dataset": "Example",
+        "extra_target": "7835_1_G_klein_V4"
+    },
+    {
+        "lat": "48.10691",
+        "lon": "11.95297",
+        "date": "APR-II",
+        "sum_raw_reads": 28984,
+        "dataset": "Example",
+        "extra_target": "7837_4_A_klein_V4"
+    },
+    {
+        "lat": "48.12172",
+        "lon": "11.95793",
+        "date": "APR-II",
+        "sum_raw_reads": 17154,
+        "dataset": "Example",
+        "extra_target": "7837_4_F_klein_V4"
+    },
+    {
+        "lat": "48.09727",
+        "lon": "11.97566",
+        "date": "APR-II",
+        "sum_raw_reads": 6024,
+        "dataset": "Example",
+        "extra_target": "7837_4_U_klein_V4"
+    },
+    {
+        "lat": "48.05608",
+        "lon": "11.6248",
+        "date": "APR-II",
+        "sum_raw_reads": 21857,
+        "dataset": "Example",
+        "extra_target": "7935_2_A_klein_V4"
+    },
+    {
+        "lat": "48.08496",
+        "lon": "11.58851",
+        "date": "APR-II",
+        "sum_raw_reads": 11174,
+        "dataset": "Example",
+        "extra_target": "7935_2_F_klein_V4"
+    },
+    {
+        "lat": "48.06033",
+        "lon": "11.64965",
+        "date": "APR-II",
+        "sum_raw_reads": 37932,
+        "dataset": "Example",
+        "extra_target": "7935_2_U_klein_V4"
+    },
+    {
+        "lat": "47.87829",
+        "lon": "10.81209",
+        "date": "APR-II",
+        "sum_raw_reads": 12230,
+        "dataset": "Example",
+        "extra_target": "8130_2_F_klein_V4"
+    },
+    {
+        "lat": "47.8692",
+        "lon": "10.83086",
+        "date": "APR-II",
+        "sum_raw_reads": 30072,
+        "dataset": "Example",
+        "extra_target": "8130_2_G_klein_V4"
+    },
+    {
+        "lat": "47.76461",
+        "lon": "10.64641",
+        "date": "APR-II",
+        "sum_raw_reads": 17597,
+        "dataset": "Example",
+        "extra_target": "8229_2_F_klein_V4"
+    },
+    {
+        "lat": "47.7595995",
+        "lon": "10.6430557",
+        "date": "APR-II",
+        "sum_raw_reads": 19127,
+        "dataset": "Example",
+        "extra_target": "8229_2_G_klein_V4"
+    },
+    {
+        "lat": "47.7812563",
+        "lon": "10.6236358",
+        "date": "APR-II",
+        "sum_raw_reads": 23677,
+        "dataset": "Example",
+        "extra_target": "8229_2_U_klein_V4"
+    },
+    {
+        "lat": "47.7704",
+        "lon": "11.5466",
+        "date": "APR-II",
+        "sum_raw_reads": 17965,
+        "dataset": "Example",
+        "extra_target": "8235_1_F_klein_V4"
+    },
+    {
+        "lat": "47.7746",
+        "lon": "11.54343",
+        "date": "APR-II",
+        "sum_raw_reads": 14718,
+        "dataset": "Example",
+        "extra_target": "8235_1_G_klein_V4"
+    },
+    {
+        "lat": "47.75695",
+        "lon": "11.58147",
+        "date": "APR-II",
+        "sum_raw_reads": 6988,
+        "dataset": "Example",
+        "extra_target": "8235_1_U_klein_V4"
+    }
+]

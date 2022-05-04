@@ -131,7 +131,6 @@ dmypy.json
 
 # Costumized
 input/
-data/
 docs/
 models/
 plots/
