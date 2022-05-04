@@ -12,7 +12,7 @@ After loading the data in You should set up the possibility to filter the data b
 
 ## Visualization
 
-In the end You should be plotting the data by using its geo data stored as 'lat' and 'lon' columns. For this You can use the given script You may find in [data_processing](./src/data_processing.py).
+In the end You should be plotting the data by using its geo data stored as 'lat' and 'lon' columns. For this You may use the given script which can be found in [data_processing](./src/data_processing.py) & add a local folder 'visualizations/' on the root level where to store the plots.
 
 ## Remarks
 
