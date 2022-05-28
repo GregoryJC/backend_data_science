@@ -2,3 +2,7 @@ numpy==1.22.2
 pandas==1.4.2
 plotly==5.8.0
 fastparquet==0.8.1
+Flask==2.1.2
+bcrypt==3.2.2
+psycopg2==2.9.3
+pyjwt==2.4.0
