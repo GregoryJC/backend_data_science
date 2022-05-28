@@ -7,15 +7,23 @@ from traceback import format_exc
 from datetime import datetime, timedelta
 
 '''
-CREATE TABLE users(
-	user_id     SERIAL PRIMARY KEY,
-	role        VARCHAR(100),
-	first_name  VARCHAR(100),
-	last_name   VARCHAR(100),
-	email       VARCHAR(100) NOT NULL,
-	password    CHAR(60) NOT NULL,
-	last_login  DATE
-);
+PostgreSQL Database config:
+    database='AIM', 
+    user='postgres', 
+    password='rf86yl97i', 
+    host='localhost', 
+    port='5432'
+
+SQL query to create the table:
+    CREATE TABLE users(
+        user_id     SERIAL PRIMARY KEY,
+        role        VARCHAR(100),
+        first_name  VARCHAR(100),
+        last_name   VARCHAR(100),
+        email       VARCHAR(100) NOT NULL,
+        password    CHAR(60) NOT NULL,
+        last_login  DATE
+    );
 '''
 
 class Server:
